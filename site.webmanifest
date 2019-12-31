@@ -1,6 +1,6 @@
 {
-    "name": "Moabi CVE",
-    "short_name": "Moabi CVE",
+    "name": "MoabiCVE",
+    "short_name": "MoabiCVE",
 	"description": "Moabi IoT vulnerabilities CVEs",
 	"start_url": "/index.html",
     "icons": [
