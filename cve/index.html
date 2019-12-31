@@ -1,5 +1,39 @@
----
-title: Jekyll Redirect 301
-redirect_to: "https://www.moabi.info/cve/"
----
+<html>
+    <head>
+        <title>CVE entry</title>
+        <script
+			  src="https://code.jquery.com/jquery-3.4.1.js"
+			  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+			  crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <h1>CVE ID</h1>
+        <div class="cve_id"></div>
+        <h1>Summary</h1>
+        <div class="cve_summary"></div>
+        <h1>CWE</h1>
+        <div class="cve_cwe"></div>
+        <h1>CVSS score</h1>
+        <div class="cve_cvss"></div>
+        <h1>References</h1>
+        <div class="cve_refs"></div>
+        
+        <script>
+        $(document).ready(function(){
+            const url = new URL(window.location.href);
+            const id = url.searchParams.get("id");
 
+            $.ajax({
+                url: 'https://www.moabi.info/cve/'+id,
+                headers: {'Accept': 'application/json'},
+            }).done((data) => {
+                $('.cve_id').html(data.public_id);
+                $('.cve_cvss').html(data.cvss_score);
+                $('.cve_cwe').html(data.cwe);
+                $('.cve_summary').html(data.summary);
+                $('.cve_refs').html(data.refs);
+            });
+        });
+        </script>
+    </body>
+</html>
