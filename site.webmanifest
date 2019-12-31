@@ -1,0 +1,22 @@
+{
+    "name": "Moabi CVE",
+    "short_name": "Moabi CVE",
+	"description": "Moabi IoT vulnerabilities CVEs",
+	"start_url": "/index.html",
+    "icons": [
+        {
+            "src": "https://moabi.com/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://moabi.com/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#446CDE",
+    "background_color": "#446CDE",
+    "scope": "/",
+    "display": "standalone"
+}
