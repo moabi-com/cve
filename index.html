@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="description" content="Moabi : CVE, IoT Firmware Security. Moabi SaaS platform is a pro-active security solution to audit software, firmware, binaries and their dependencies.">
+    <meta name="keywords" content="CVE, Binary analysis, Preventive Software analytics, IoT security, security analytics, preventive security, IIot security, Saas security, scalable security">
+    <title>Moabi - CVE - IoT Firmware Security</title>
+
+    <!-- Content Security Policy -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' https://www.moabi.info https://moabi.info https://cve.moabi.com https://moabi.com https://m.moabi.com ; script-src 'self' https://code.jquery.com https://www.moabi.info https://moabi.info https://cve.moabi.com https://moabi.com https://m.moabi.com https://www.google-analytics.com https://www.googletagmanager.com https://js.hs-scripts.com https://js.hs-analytics.net https://track.hubspot.com 'unsafe-inline'; connect-src 'self' https://www.moabi.info https://moabi.info https://cve.moabi.com https://moabi.com https://m.moabi.com https://www.google-analytics.com https://www.googletagmanager.com https://js.hs-scripts.com https://js.hs-analytics.net https://track.hubspot.com ; img-src 'self' data: https://www.moabi.info https://moabi.info https://cve.moabi.com https://moabi.com https://m.moabi.com https://www.google-analytics.com https://track.hubspot.com https://www.googletagmanager.com 'unsafe-inline' 'unsafe-eval'; style-src 'self' https://www.moabi.info https://moabi.info https://cve.moabi.com https://moabi.com https://m.moabi.com https://tagmanager.google.com/ https://fonts.googleapis.com/ 'unsafe-inline' ; font-src 'self' https://www.moabi.info https://moabi.info https://cve.moabi.com https://moabi.com https://m.moabi.com https://fonts.googleapis.com https://fonts.gstatic.com/ ; frame-src https://www.youtube.com/ https://youtube.com/ ; base-uri 'self' https://www.moabi.info https://moabi.info https://cve.moabi.com https://moabi.com https://m.moabi.com ;" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, minimum-scale=0.86">
+
+    <!-- Json-ld information -->
+    <script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@id": "https://cve.moabi.com/index.html",
+		"@type": "Organization",
+		"name": "Moabi",
+		"url": "https://moabi.com/",
+		"logo": "https://moabi.com/moabi.png",
+		"email": "info(at)moabi.com",
+		"description": "Moabi : IoT Firmware Security. Moabi SaaS platform is a pro-active security solution to audit software, firmware, binaries and their dependencies.",
+		"address": [
+			{
+				"@type": "PostalAddress",
+				"addressLocality": "Paris, France",
+				"postalCode":"75015",
+				"streetAddress": "33 Avenue du Maine"
+			},
+			{
+				"@type": "PostalAddress",
+				"addressLocality": "San Francisco",
+				"addressRegion": "CA",
+				"postalCode":"94133",
+				"streetAddress": "1640 Stockton Street",
+				"postOfficeBoxNumber": "330143"
+			}
+		],
+		"contactPoint": [
+			{
+				"@type": "ContactPoint",
+				"telephone": "+33188335053",
+				"email": "info(at)moabi.com",
+				"contactType": "sales"
+			},
+			{
+				"@type": "ContactPoint",
+				"email": "moabi(at)moabi.com",
+				"contactType": "customer service",
+				"url": "https://moabi.com"
+			}
+		],
+		"sameAs": [
+			"https://www.moabi.info",
+			"https://cve.moabi.com",
+			"https://blog.moabi.com",
+			"https://www.facebook.com/Moabi.info/",
+			"https://twitter.com/moabi_com",
+			"https://www.instagram.com/endrazine/",
+			"https://www.pinterest.com/moabi_security/",
+			"https://www.reddit.com/user/moabi_com",
+			"https://mix.com/moabi",
+			"https://moabi-com.tumblr.com",
+			"https://disqus.com/by/moabi_com/",
+			"https://www.behance.net/moabi",
+			"https://soundcloud.com/moabi-com",
+			"https://www.diigo.com/user/moabicom",
+			"https://www.scribd.com/user/65969292/Moabi",
+			"https://prezi.com/user/9zvtmizryv1a/",
+			"https://www.deviantart.com/moabisecurity",
+			"https://moabi-com.tumblr.com/",
+			"http://about.me/moabisecurity",
+			"https://www.crunchbase.com/organization/moabi",
+			"https://www.instapaper.com/p/moabi",
+			"https://www.wattpad.com/user/MoabiSecurity",
+			"https://themeforest.net/user/moabisecurity",
+			"https://github.com/moabi-com/",
+			"https://www.pearltrees.com/moabi",
+			"https://www.mixcloud.com/moabi-com",
+			"http://slideshare.net/endrazine/",
+			"https://www.linkedin.com/company/moabi-com",
+			"https://www.youtube.com/moabi",
+			"https://moabi-security.business.site",
+			"https://www.dailymotion.com/dm_0998e97942f47ad8db363dc97476c53e",
+			"https://www.hotfrog.com/company/1235179870674944"
+		]
+	}
+    </script>
+
+    <!-- Open Graph metadata -->
+    <meta property="og:title" content="Moabi" />
+    <meta property="og:url" content="https://moabi.com/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://moabi.com/moabi_card.png" />
+    <meta property="og:description" content="Moabi : IoT Firmware Security. Moabi SaaS platform is a pro-active security solution to audit software, firmware, binaries and their dependencies." />
+    <meta property="og:site_name" content="Moabi">
+
+    <!-- Twitter card integration (works with Open Graph data above) -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image:alt" content="Moabi Saas platform : binary analysis">
+    <meta name="twitter:site" content="@moabi_com">
+
+    <!-- Yandex indexation -->
+    <meta name="yandex-verification" content="e477bac9aff66624" />
+
+    <!-- Bing indexing -->
+    <meta name="msvalidate.01" content="E6F45B72576D2C71AD0A5B162DF8117D" />
+
+    <!-- Pinterest indexing -->
+    <meta name="p:domain_verify" content="3ff193be13e7fbcb9cdf824778f234c3"/>
+
+    <!-- Preconnect optimization -->
+    <link rel="preconnect" href="https://js.hs-scripts.com">
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="preconnect" href="https://www.google-analytics.com">
+
+    <!-- Canonical name -->
+    <link rel="canonical" href="https://cve.moabi.com/year/" />
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="https://moabi.com/favicon.ico" type="image/x-icon" />
+    <link rel="icon" type="image/png" href="https://moabi.com/favicon-16x16.png" sizes="16x16" />  
+    <link rel="icon" type="image/png" href="https://moabi.com/favicon-32x32.png" sizes="32x32" />  
+    <link rel="icon" type="image/png" href="https://moabi.com/favicon-96x96.png" sizes="96x96" />  
+
+    <!-- Apple icons -->
+    <link rel="apple-touch-icon" sizes="120x120" href="apple-120.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="apple-152.png" />  
+    <link rel="apple-touch-icon" sizes="167x167" href="apple-167.png" />  
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-180.png" />  
+
+    <!-- Apple Safari -->
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#446CDE" />
+
+    <!-- Microsoft Windows/IE11 Start Screen Tile-->
+    <meta name="application-name" content="cve.moabi.com"/>
+    <meta name="msapplication-square70x70logo" content="small.jpg"/>
+    <meta name="msapplication-square150x150logo" content="medium.jpg"/>
+    <meta name="msapplication-wide310x150logo" content="wide.jpg"/>
+    <meta name="msapplication-square310x310logo" content="large.jpg"/>
+    <meta name="msapplication-TileColor" content="#446CDE">
+    <meta name="theme-color" content="#446CDE">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129423028-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-129423028-1');
+    </script>
+
+    <!-- Note: stylesheets are loaded twice to make up for the lack of preloading in Firefox. See https://stackoverflow.com/questions/45321043/preload-css-file-not-supported-on-firefox-and-safari-mac -->
+    <!-- CSS  Fonts -->
+    <link rel="preload" href="https://moabi.com/css/font-awesome.min.css" as="style" />
+    <link rel="stylesheet" href="https://moabi.com/css/font-awesome.min.css">
+
+    <!-- CSS  -->
+    <link rel="preload" href="https://moabi.com/css/site.css" as="style" />
+    <link rel="stylesheet" href="https://moabi.com/css/site.css">
+
+    <!-- CVE script -->
+    <script
+    src="https://code.jquery.com/jquery-3.4.1.js"
+    integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+    crossorigin="anonymous"></script>
+
+    <script  src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+
+<body class="skew">
+    <!-- Noscript tag -->
+    <noscript>Your browser does not support javascript : some elements may not be displayed as intended.<br /><br /></noscript>
+    <!-- Page Wrapper Starts -->
+    <div class="wrapper">
+        <!-- Header Starts -->
+        <header id="header" class="header">
+            <div class="header-inner">
+                <!-- Navbar Starts -->
+                <nav class="navbar navbar-expand-lg p-0" id="singlepage-nav">
+                                        <!-- Logo Starts -->
+                    <div class="logo">
+                        <a data-toggle="collapse" data-target=".navbar-collapse.show" class="navbar-brand link-menu scroll-to-target" alt="main slider" href="https://www.moabi.com">
+                            <!-- Logo White Starts -->
+                            <img id="logo-light" class="logo-light" src="/IoT/security/metrics/logo-white.png" alt="Moabi IoT Firmware Security" title="Moabi white logo" decoding="async" />
+                            <!-- Logo White Ends -->
+                            <!-- Logo Black Starts -->
+                            <img id="logo-dark" class="logo-dark" src="/IoT/security/metrics/logo-white.png" alt="Analytics" title="Moabi logo" decoding="async" />
+                            <!-- Logo Black Ends -->
+                        </a>
+                    </div>
+                                        <!-- Logo Ends -->
+                                        <!-- Hamburger Icon Starts -->
+                    <button class="navbar-toggler p-0" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                                <span id="icon-toggler">
+                                                  <span></span>
+                                                  <span></span>
+                                                  <span></span>
+                                                  <span></span>
+                                                </span>
+                                        </button>
+                                        <!-- Hamburger Icon Ends -->
+                                        <!-- Navigation Menu Starts -->
+                    <div class="collapse navbar-collapse nav-menu" id="navbarSupportedContent">
+                        <ul class="nav-menu-inner ml-auto">
+                            <li><a data-toggle="collapse" data-target=".navbar-collapse.show" class="link-menu" alt="home" href="https://cve.moabi.com/"><i class="fa fa-home"></i> vulnerabilities database</a></li>
+                            <li><a data-toggle="collapse" data-target=".navbar-collapse.show" class="link-menu" alt="research" href="https://moabi.com/" onclick="window.location=$(this).attr('href')"><i class="fa fa-cogs"></i> Moabi</a>
+                            <li><a data-toggle="collapse" data-target=".navbar-collapse.show" class="link-menu" alt="blog" href="https://blog.moabi.com/" onclick="window.location=$(this).attr('href')"><i class="fa fa-wordpress"></i> blog</a>
+                            <li><a data-toggle="collapse" data-target=".navbar-collapse.show" class="link-menu" alt="members login" href="https://www.moabi.info/" onclick="window.location=$(this).attr('href')"><i class="fa fa-user-circle-o"></i>members login</a></li>
+                        </ul>
+                    </div>
+                                        <!-- Navigation Menu Ends -->
+                </nav>
+                <!-- Navbar Ends -->
+            </div>
+        </header>
+
+<br /><br /><br /><br /><br /><br /><br />
+        <!-- About Section Starts -->
+        <section id="platform" class="about">
+            <!-- Container Starts -->
+            <div class="container">
+                <!-- Main Heading Starts -->
+                <div class="text-center top-text" >
+                    <h1><span><div class="cve_id"></div></span></h1>
+                </div>
+                <!-- Main Heading Ends -->
+                <!-- Divider Starts -->
+                <div class="divider text-center">
+                    <span class="outer-line"></span>
+                    <span class="fa fa-cloud" aria-hidden="true"></span>
+                    <span class="outer-line"></span><br /><br />
+                        <h2 class="title"><span style="color:#446CDE;font-weight:bolder">CVE</span> Vulnerability <span style="color:#446CDE;font-weight:bolder">Database</span></h2><br/><br />
+                </div>
+                <!-- Divider Ends -->
+                <!-- About Content Starts -->
+                <div class="row about-content">
+                    <div class="col-sm-12 col-md-12 col-lg-8 about-left-side">
+		        <div><ul class="cve_list"></ul></div>
+                    </div>
+                </div>
+                <!-- About Content Ends -->
+            </div>
+            <!-- Container Ends -->
+        </section>
+        <!-- About Section Ends -->
+
+
+
+
+        <!-- Footer Section Starts -->
+        <footer class="footer text-center">
+            <!-- Container Starts -->
+            <div class="container">
+                <!-- Copyright Text Starts -->
+                <p><a href="https://moabi.com" alt="Moabi main page">MOABI - IoT Firmware Security</a></p>
+                <br />
+                    &copy; Copyright 2010-2020 <a href="https://moabi.com" alt="Moabi.com">MOABI.com</a>
+                </p>
+                <!-- Copyright Text Ends -->
+                <!-- Social Media Links Starts -->
+                <div class="social-icons">
+                    <ul class="social">
+                        <li>
+                            <a class="linkedin"  href="https://www.linkedin.com/company/moabi-com" title="linkedin" alt="Moabi Linkedin page" crossorigin="anonymous" ></a>
+                        </li>
+                        <li>
+                            <a class="twitter"  href="https://twitter.com/moabi_com" title="twitter" alt="Moabi Twitter page" crossorigin="anonymous" ></a>
+                        </li>
+                        <li>
+                            <a class="facebook"  href="https://www.facebook.com/moabi.info" title="facebook" alt="Moabi Facebook page" crossorigin="anonymous" ></a>
+                        </li>
+                        <li>
+                            <a class="youtube"  href="https://www.youtube.com/moabi" title="youtube" alt="Moabi Youtube page" crossorigin="anonymous" ></a>
+                        </li>
+                        <li>
+                            <a class="github"  href="https://github.com/moabi-com/test_samples/" title="github" alt="Moabi Github page" crossorigin="anonymous" ></a>
+                        </li>
+                        <li>
+                            <a class="slideshare"  href="http://slideshare.net/endrazine/" title="slideshare" alt="Moabi Slideshare" crossorigin="anonymous" ></a>
+                        </li>
+                        <li>
+                            <a class="wordpress"  href="https://blog.moabi.com" title="wordpress" alt="Moabi blog" crossorigin="anonymous" ></a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- Social Media Links Ends -->
+
+            <!-- Legal disclaimers -->
+
+                <a  href="https://sway.office.com/s/ZGZJ9H4Acjpmeiv1/embed" crossorigin="anonymous" alt="Moabi Statement of privacy" >Statement of Privacy and Data Protection</a><p />
+                <a  href="https://sway.office.com/s/77E2E35BSeGykIj0/embed" crossorigin="anonymous" alt="Moabi terms of use" >Moabi website Terms of Use</a>
+
+            <!-- End of Legal disclaimers -->
+
+            </div>
+            <!-- Container Ends -->
+        </footer>
+        <!-- Footer Section Starts -->
+        <!-- Back To Top Starts -->
+        <div id="back-top-wrapper" class="d-none d-sm-block">
+            <p id="back-top">
+                <a href="index.html#top" alt="back to top"><span> </span></a>
+            </p>
+        </div>
+        <!-- Back To Top Ends -->
+    </div>
+    <!-- Wrapper Ends -->
+
+        <script>
+        $(document).ready(function(){
+            const url = new URL(window.location.href);
+            const year = url.searchParams.get("year");
+
+            $.get('https://www.moabi.info/cve/year/'+year).done((data) => {
+                data.forEach((cve) => {
+                    $('.cve_list').append(
+                        `
+                        <li><a href='https://cve.moabi.com/cve/?id=${cve["public_id"]}'>${cve['public_id']}</a></li>
+                        `
+                    );
+                });
+            });
+        });
+        </script>
+    </body>
+</html>
+        
+
