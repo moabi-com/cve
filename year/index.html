@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>CVE list</title>
+        <script
+			  src="https://code.jquery.com/jquery-3.4.1.js"
+			  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+			  crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div><ul class="cve_list"></ul></div>
+        
+        <script>
+        $(document).ready(function(){
+            const url = new URL(window.location.href);
+            const year = url.searchParams.get("year");
+
+            $.get('https://www.moabi.info/cve/year/'+year).done((data) => {
+                data.forEach((cve) => {
+                    $('.cve_list').append(
+                        `
+                        <li><a href='./moabi.com.cve.html?id=${cve["public_id"]}'>${cve['public_id']}</a></li>
+                        `
+                    );
+                });
+            });
+        });
+        </script>
+    </body>
+</html>
