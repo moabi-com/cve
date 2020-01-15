@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /IoT
+Allow: /year/
+Allow: /cve/
+
+User-agent: Twitterbot
+Allow: /cve/
+Allow: /year/
+
+User-agent: facebookexternalhit
+Allow: /cve/
+Allow: /year/
+
+#Sitemap
+Sitemap: https://cve.moabi.com/sitemap.xml
+
+
