@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+  <loc>https://cve.moabi.com/</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/cve/</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=1999</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2000</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2001</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2002</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2003</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2004</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2005</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2006</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2007</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2008</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2009</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2010</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2011</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2012</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2013</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2014</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2015</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2016</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2017</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2018</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2019</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<url>
+  <loc>https://cve.moabi.com/year/?year=2020</loc>
+  <changefreq>daily</changefreq>
+  <lastmod>2020-01-15</lastmod>
+</url>
+<loc>https://cve.moabi.com/</loc>
+<image:image>
+<image:loc>https://cve.moabi.com/IoT/security/metrics/logo-white.png</image:loc>
+<image:title>Moabi : CVE Vulnerabilities database</image:title>
+<image:geo_location>Paris, France</image:geo_location>
+</image:image>
+</url>
+</urlset>
