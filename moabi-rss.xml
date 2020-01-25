@@ -521,10 +521,14 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-3864" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-3981" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-5082" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-5124" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-5126" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-5130" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-5131" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-5145" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-5146" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-5147" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-5183" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-5188" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-5593" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-5647" />
@@ -717,9 +721,6 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7226" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7228" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7229" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7231" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7232" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7233" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7234" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7235" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7236" />
@@ -741,12 +742,13 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7936" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7937" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7938" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7939" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7940" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7941" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7964" />
       </rdf:Seq>
     </items>
-    <dc:date>2020-01-24T23:00:18Z</dc:date>
+    <dc:date>2020-01-25T19:00:12Z</dc:date>
     <dc:language>en-us</dc:language>
     <dc:rights>This material is not copywritten and may be freely used, however, attribution is requested.</dc:rights>
   </channel>
@@ -871,7 +873,7 @@
     <dc:date>2020-01-22T17:15:10Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2011-3612">
-    <title>CVE-2011-3612</title>
+    <title>CVE-2011-3612 (usebb)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2011-3612</link>
     <description>Cross-Site Request Forgery (CSRF) vulnerability exists in panel.php in UseBB before 1.0.12.</description>
     <dc:date>2020-01-22T18:15:11Z</dc:date>
@@ -3193,7 +3195,7 @@
     <dc:date>2020-01-23T18:15:13Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-16513">
-    <title>CVE-2019-16513</title>
+    <title>CVE-2019-16513 (control)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2019-16513</link>
     <description>An issue was discovered in ConnectWise Control (formerly known as ScreenConnect) 19.3.25270.7185. CSRF can be used to send API requests.</description>
     <dc:date>2020-01-23T18:15:13Z</dc:date>
@@ -3529,7 +3531,7 @@
     <dc:date>2020-01-22T19:15:12Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19837">
-    <title>CVE-2019-19837</title>
+    <title>CVE-2019-19837 (unleashed, zonedirector_1200_firmware)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2019-19837</link>
     <description>Incorrect access control in the web interface in Ruckus Wireless Unleashed through 200.7.10.102.64 allows remote information disclosure of bin/web.conf via HTTP requests.</description>
     <dc:date>2020-01-23T13:15:12Z</dc:date>
@@ -3840,6 +3842,12 @@
     <description>An exploitable heap buffer overflow vulnerability exists in the iocheckd service I/O-Check functionality of WAGO PFC200 Firmware version 03.01.07(13), WAGO PFC200 Firmware version 03.00.39(12), and WAGO PFC100 Firmware version 03.00.39(12). A specially crafted set of packets can cause a heap buffer overflow, potentially resulting in code execution. An attacker can send unauthenticated packets to trigger this vulnerability.</description>
     <dc:date>2020-01-08T17:15:11Z</dc:date>
   </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-5124">
+    <title>CVE-2019-5124</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-5124</link>
+    <description>An exploitable out-of-bounds read vulnerability exists in AMD ATIDXX64.DLL driver, version 26.20.13001.50005. A specially crafted pixel shader can cause a denial of service. An attacker can provide a specially crafted shader file to trigger this vulnerability. This vulnerability can be triggered from VMware guest, affecting VMware host.</description>
+    <dc:date>2020-01-25T18:15:12Z</dc:date>
+  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-5126">
     <title>CVE-2019-5126 (phantompdf, reader)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2019-5126</link>
@@ -3863,6 +3871,24 @@
     <link>https://cve.moabi.com/cve/?id=CVE-2019-5145</link>
     <description>An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit PDF Reader, version 9.7.0.29435. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If the browser plugin extension is enabled, visiting a malicious site can also trigger the vulnerability.</description>
     <dc:date>2020-01-16T22:15:12Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-5146">
+    <title>CVE-2019-5146</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-5146</link>
+    <description>An exploitable out-of-bounds read vulnerability exists in AMD ATIDXX64.DLL driver, version 26.20.13025.10004. A specially crafted pixel shader can cause a denial of service. An attacker can provide a specially crafted shader file to trigger this vulnerability. This vulnerability can be triggered from VMware guest, affecting VMware host.</description>
+    <dc:date>2020-01-25T18:15:12Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-5147">
+    <title>CVE-2019-5147</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-5147</link>
+    <description>An exploitable out-of-bounds read vulnerability exists in AMD ATIDXX64.DLL driver, version 26.20.13003.1007. A specially crafted pixel shader can cause a denial of service. An attacker can provide a specially crafted shader file to trigger this vulnerability. This vulnerability can be triggered from VMware guest, affecting VMware host.</description>
+    <dc:date>2020-01-25T18:15:12Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-5183">
+    <title>CVE-2019-5183</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-5183</link>
+    <description>An exploitable type confusion vulnerability exists in AMD ATIDXX64.DLL driver, versions 26.20.13031.10003, 26.20.13031.15006 and 26.20.13031.18002. A specially crafted pixel shader can cause a type confusion issue, leading to potential code execution. An attacker can provide a specially crafted shader file to trigger this vulnerability. This vulnerability can be triggered from VMware guest, affecting VMware host.</description>
+    <dc:date>2020-01-25T18:15:12Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-5188">
     <title>CVE-2019-5188 (e2fsprogs, fedora)</title>
@@ -5016,24 +5042,6 @@
     <description>An issue was discovered in Simplejobscript.com SJS before 1.65. There is unauthenticated SQL injection via the search engine. The parameter is landing_location. The function is countSearchedJobs(). The file is _lib/class.Job.php.</description>
     <dc:date>2020-01-21T17:15:12Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7231">
-    <title>CVE-2020-7231</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7231</link>
-    <description>Evoko Home 1.31 devices provide different error messages for failed login requests depending on whether the username is valid.</description>
-    <dc:date>2020-01-19T20:15:11Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7232">
-    <title>CVE-2020-7232</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7232</link>
-    <description>Evoko Home 1.31 devices allow remote attackers to obtain sensitive information (such as usernames and password hashes) via a WebSocket request, as demonstrated by the sockjs/224/uf1psgff/websocket URI at a wss:// URL.</description>
-    <dc:date>2020-01-19T20:15:11Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7233">
-    <title>CVE-2020-7233</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7233</link>
-    <description>KMS Controls BAC-A1616BC BACnet devices have a cleartext password of snowman in the BACKDOOR_NAME variable in the BC_Logon.swf file.</description>
-    <dc:date>2020-01-19T20:15:12Z</dc:date>
-  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7234">
     <title>CVE-2020-7234 (r310_firmware)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-7234</link>
@@ -5149,15 +5157,21 @@
     <dc:date>2020-01-23T21:15:13Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7937">
-    <title>CVE-2020-7937</title>
+    <title>CVE-2020-7937 (plone)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-7937</link>
     <description>An XSS issue in the title field in Plone 5.0 through 5.2.1 allows users with a certain privilege level to insert JavaScript that will be executed when other users access the site.</description>
     <dc:date>2020-01-23T21:15:13Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7938">
-    <title>CVE-2020-7938</title>
+    <title>CVE-2020-7938 (plone)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-7938</link>
     <description>plone.restapi in Plone 5.2.0 through 5.2.1 allows users with a certain privilege level to escalate their privileges up to the highest level.</description>
+    <dc:date>2020-01-23T21:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7939">
+    <title>CVE-2020-7939 (plone)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7939</link>
+    <description>SQL Injection in DTML or in connection objects in Plone 4.0 through 5.2.1 allows users to perform unwanted SQL queries. (This is a problem in Zope.)</description>
     <dc:date>2020-01-23T21:15:13Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7940">
