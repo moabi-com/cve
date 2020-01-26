@@ -74,7 +74,11 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2012-5867" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2012-6083" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2012-6302" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2012-6344" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2012-6345" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2012-6451" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2012-6494" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2012-6613" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2012-6649" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2012-6663" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2013-1592" />
@@ -84,6 +88,7 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2013-1596" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2013-1597" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2013-1598" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2013-1744" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2013-2773" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2013-3960" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2013-4175" />
@@ -189,6 +194,7 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2018-16272" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2018-17981" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2018-8654" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-0141" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-0219" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-0544" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-0563" />
@@ -288,6 +294,8 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-12398" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-12399" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-12490" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-12619" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-12629" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-1275" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-1276" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-1279" />
@@ -396,8 +404,10 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-1523" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-1524" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-1525" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-15255" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-1526" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-1527" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-15278" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-1528" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-1529" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-1530" />
@@ -409,6 +419,18 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-15712" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-15742" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-15961" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-15989" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-16003" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-16005" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-16008" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-16015" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-16018" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-16020" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-16022" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-16024" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-16026" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-16027" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-16029" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-16153" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-16271" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-16466" />
@@ -495,8 +517,6 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-20327" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-20373" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-20381" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-20384" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-20385" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-20386" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-20387" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-20388" />
@@ -644,6 +664,14 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-2680" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-2687" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-2688" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-3115" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-3121" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-3129" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-3131" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-3134" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-3136" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-3139" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-3142" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-3941" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5180" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5193" />
@@ -716,7 +744,6 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7210" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7211" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7213" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7215" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7220" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7226" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7228" />
@@ -724,19 +751,17 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7234" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7235" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7236" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7237" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7239" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7240" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7241" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7242" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7243" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7244" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7245" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7246" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7249" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7470" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7594" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7595" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7596" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7915" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7931" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7936" />
@@ -746,9 +771,11 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7940" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7941" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7964" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7980" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7981" />
       </rdf:Seq>
     </items>
-    <dc:date>2020-01-25T19:00:12Z</dc:date>
+    <dc:date>2020-01-26T06:00:18Z</dc:date>
     <dc:language>en-us</dc:language>
     <dc:rights>This material is not copywritten and may be freely used, however, attribution is requested.</dc:rights>
   </channel>
@@ -1160,11 +1187,35 @@
     <description>Soapbox through 0.3.1: Sandbox bypass - runs a second instance of Soapbox within a sandboxed Soapbox.</description>
     <dc:date>2020-01-24T15:15:13Z</dc:date>
   </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2012-6344">
+    <title>CVE-2012-6344</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2012-6344</link>
+    <description>Novell ZENworks Configuration Management before 11.2.4 allows XSS.</description>
+    <dc:date>2020-01-25T19:15:10Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2012-6345">
+    <title>CVE-2012-6345</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2012-6345</link>
+    <description>Novell ZENworks Configuration Management before 11.2.4 allows obtaining sensitive trace information.</description>
+    <dc:date>2020-01-25T19:15:10Z</dc:date>
+  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2012-6451">
     <title>CVE-2012-6451</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2012-6451</link>
     <description>Lorex LNC116 and LNC104 IP Cameras have a Remote Authentication Bypass Vulnerability</description>
     <dc:date>2020-01-24T15:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2012-6494">
+    <title>CVE-2012-6494</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2012-6494</link>
+    <description>Rapid7 Nexpose before 5.5.4 contains a session hijacking vulnerability which allows remote attackers to capture a user's session and gain unauthorized access.</description>
+    <dc:date>2020-01-25T19:15:10Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2012-6613">
+    <title>CVE-2012-6613</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2012-6613</link>
+    <description>D-Link DSR-250N devices with firmware 1.05B73_WW allow Persistent Root Access because of the admin password for the admin account.</description>
+    <dc:date>2020-01-25T19:15:11Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2012-6649">
     <title>CVE-2012-6649</title>
@@ -1219,6 +1270,12 @@
     <link>https://cve.moabi.com/cve/?id=CVE-2013-1598</link>
     <description>A Command Injection vulnerability exists in Vivotek PT7135 IP Cameras 0300a and 0400a via the system.ntp parameter to the farseer.out binary file, which cold let a malicious user execute arbitrary code.</description>
     <dc:date>2020-01-24T19:15:11Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2013-1744">
+    <title>CVE-2013-1744</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2013-1744</link>
+    <description>IRIS citations management tool through 1.3 allows remote attackers to execute arbitrary commands.</description>
+    <dc:date>2020-01-25T19:15:11Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2013-2773">
     <title>CVE-2013-2773 (nitropdf)</title>
@@ -1850,6 +1907,12 @@
     <description>An elevation of privilege vulnerability exists in Microsoft Dynamics 365 Server, aka 'Microsoft Dynamics 365 Elevation of Privilege Vulnerability'.</description>
     <dc:date>2020-01-24T21:15:12Z</dc:date>
   </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-0141">
+    <title>CVE-2019-0141</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-0141</link>
+    <description>** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none.</description>
+    <dc:date>2020-01-25T19:15:12Z</dc:date>
+  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-0219">
     <title>CVE-2019-0219 (cordova_inappbrowser)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2019-0219</link>
@@ -2443,6 +2506,18 @@
     <link>https://cve.moabi.com/cve/?id=CVE-2019-12490</link>
     <description>An issue was discovered in Simple Machines Forum (SMF) before 2.0.16. Reverse tabnabbing can occur because of use of _blank for external links.</description>
     <dc:date>2020-01-22T06:15:10Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-12619">
+    <title>CVE-2019-12619</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-12619</link>
+    <description>A vulnerability in the web interface for Cisco SD-WAN Solution vManage could allow an authenticated, remote attacker to impact the integrity of an affected system by executing arbitrary SQL queries. The vulnerability is due to insufficient validation of user-supplied input. An attacker could exploit this vulnerability by sending crafted input that includes SQL statements to an affected system. A successful exploit could allow the attacker to modify entries in some database tables, affecting the integrity of the data.</description>
+    <dc:date>2020-01-26T05:15:10Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-12629">
+    <title>CVE-2019-12629</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-12629</link>
+    <description>A vulnerability in the WebUI of the Cisco SD-WAN Solution could allow an authenticated, remote attacker to inject and execute arbitrary commands with vmanage user privileges on an affected system. The vulnerability is due to insufficient input validation of data parameters for certain fields in the affected solution. An attacker could exploit this vulnerability by configuring a malicious username on the login page of the affected solution. A successful exploit could allow the attacker to inject and execute arbitrary commands with vmanage user privileges on an affected system.</description>
+    <dc:date>2020-01-26T05:15:11Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-1275">
     <title>CVE-2019-1275</title>
@@ -3092,6 +3167,12 @@
     <description>** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2019. Notes: none.</description>
     <dc:date>2020-01-24T22:15:22Z</dc:date>
   </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-15255">
+    <title>CVE-2019-15255</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-15255</link>
+    <description>A vulnerability in the web-based management interface of Cisco Identity Services Engine (ISE) could allow an authenticated, remote attacker to bypass authorization and access sensitive information related to the device. The vulnerability exists because the software fails to sanitize URLs before it handles requests. An attacker could exploit this vulnerability by submitting a crafted URL. A successful exploit could allow the attacker to gain unauthorized access to sensitive information.</description>
+    <dc:date>2020-01-26T05:15:11Z</dc:date>
+  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-1526">
     <title>CVE-2019-1526</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2019-1526</link>
@@ -3103,6 +3184,12 @@
     <link>https://cve.moabi.com/cve/?id=CVE-2019-1527</link>
     <description>** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2019. Notes: none.</description>
     <dc:date>2020-01-24T22:15:22Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-15278">
+    <title>CVE-2019-15278</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-15278</link>
+    <description>A vulnerability in the web-based management interface of Cisco Finesse could allow an unauthenticated, remote attacker to bypass authorization and access sensitive information related to the device. The vulnerability exists because the software fails to sanitize URLs before it handles requests. An attacker could exploit this vulnerability by submitting a crafted URL. A successful exploit could allow the attacker to gain unauthorized access to sensitive information.</description>
+    <dc:date>2020-01-26T05:15:11Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-1528">
     <title>CVE-2019-1528</title>
@@ -3169,6 +3256,78 @@
     <link>https://cve.moabi.com/cve/?id=CVE-2019-15961</link>
     <description>A vulnerability in the email parsing module Clam AntiVirus (ClamAV) Software versions 0.102.0, 0.101.4 and prior could allow an unauthenticated, remote attacker to cause a denial of service condition on an affected device. The vulnerability is due to inefficient MIME parsing routines that result in extremely long scan times of specially formatted email files. An attacker could exploit this vulnerability by sending a crafted email file to an affected device. An exploit could allow the attacker to cause the ClamAV scanning process to scan the crafted email file indefinitely, resulting in a denial of service condition.</description>
     <dc:date>2020-01-15T19:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-15989">
+    <title>CVE-2019-15989</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-15989</link>
+    <description>A vulnerability in the implementation of the Border Gateway Protocol (BGP) functionality in Cisco IOS XR Software could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition. The vulnerability is due to incorrect processing of a BGP update message that contains a specific BGP attribute. An attacker could exploit this vulnerability by sending BGP update messages that include a specific, malformed attribute to be processed by an affected system. A successful exploit could allow the attacker to cause the BGP process to restart unexpectedly, resulting in a DoS condition. The Cisco implementation of BGP accepts incoming BGP traffic only from explicitly defined peers. To exploit this vulnerability, the malicious BGP update message would need to come from a configured, valid BGP peer or would need to be injected by the attacker into the victim&amp;amp;rsquo;s BGP network on an existing, valid TCP connection to a BGP peer.</description>
+    <dc:date>2020-01-26T05:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-16003">
+    <title>CVE-2019-16003</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-16003</link>
+    <description>A vulnerability in the web-based management interface of Cisco UCS Director could allow an unauthenticated, remote attacker to download system log files from an affected device. The vulnerability is due to an issue in the authentication logic of the web-based management interface. An attacker could exploit this vulnerability by sending a crafted request to the web interface. A successful exploit could allow the attacker to download log files if they were previously generated by an administrator.</description>
+    <dc:date>2020-01-26T05:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-16005">
+    <title>CVE-2019-16005</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-16005</link>
+    <description>A vulnerability in the web-based management interface of Cisco Webex Video Mesh could allow an authenticated, remote attacker to execute arbitrary commands on the affected system. The vulnerability is due to improper validation of user-supplied input by the web-based management interface of the affected software. An attacker could exploit this vulnerability by logging in to the web-based management interface with administrative privileges and supplying crafted requests to the application. A successful exploit could allow the attacker to execute arbitrary commands on the underlying Linux operating system with root privileges on a targeted node.</description>
+    <dc:date>2020-01-26T05:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-16008">
+    <title>CVE-2019-16008</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-16008</link>
+    <description>A vulnerability in the web-based GUI of Cisco IP Phone 6800, 7800, and 8800 Series with Multiplatform Firmware could allow an authenticated, remote attacker to conduct a cross-site scripting (XSS) attack against a user of the web-based interface of an affected system. The vulnerability is due to insufficient validation of user-supplied input by the web-based GUI of an affected system. An attacker could exploit this vulnerability by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the affected interface or access sensitive, browser-based information.</description>
+    <dc:date>2020-01-26T05:15:14Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-16015">
+    <title>CVE-2019-16015</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-16015</link>
+    <description>A vulnerability in the web-based management interface of the Cisco Data Center Analytics Framework application could allow an unauthenticated, remote attacker to conduct a reflected cross-site scripting (XSS) attack against a user of the interface of an affected system. The vulnerability is due to insufficient validation of user-supplied input by the web-based management interface of the affected software. An attacker could exploit this vulnerability by persuading a user of the interface to click a malicious link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information on the affected system.</description>
+    <dc:date>2020-01-26T05:15:14Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-16018">
+    <title>CVE-2019-16018</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-16018</link>
+    <description>A vulnerability in the implementation of Border Gateway Protocol (BGP) Ethernet VPN (EVPN) functionality in Cisco IOS XR Software could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition. The vulnerability is due to incorrect processing of a BGP update message that contains crafted EVPN attributes. An attacker could indirectly exploit the vulnerability by sending BGP EVPN update messages with a specific, malformed attribute to an affected system and waiting for a user on the device to display the EVPN operational routes&amp;amp;rsquo; status. If successful, the attacker could cause the BGP process to restart unexpectedly, resulting in a DoS condition. The Cisco implementation of BGP accepts incoming BGP traffic only from explicitly defined peers. To exploit this vulnerability, the malicious BGP update message would need to come from a configured, valid BGP peer, or would need to be injected by the attacker into the victim's BGP network on an existing, valid TCP connection to a BGP peer.</description>
+    <dc:date>2020-01-26T05:15:14Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-16020">
+    <title>CVE-2019-16020</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-16020</link>
+    <description>Multiple vulnerabilities in the implementation of Border Gateway Protocol (BGP) Ethernet VPN (EVPN) functionality in Cisco IOS XR Software could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition. The vulnerabilities are due to incorrect processing of BGP update messages that contain crafted EVPN attributes. An attacker could exploit these vulnerabilities by sending BGP EVPN update messages with malformed attributes to be processed by an affected system. A successful exploit could allow the attacker to cause the BGP process to restart unexpectedly, resulting in a DoS condition. The Cisco implementation of BGP accepts incoming BGP traffic only from explicitly defined peers. To exploit these vulnerabilities, the malicious BGP update message would need to come from a configured, valid BGP peer, or would need to be injected by the attacker into the victim's BGP network on an existing, valid TCP connection to a BGP peer.</description>
+    <dc:date>2020-01-26T05:15:16Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-16022">
+    <title>CVE-2019-16022</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-16022</link>
+    <description>Multiple vulnerabilities in the implementation of Border Gateway Protocol (BGP) Ethernet VPN (EVPN) functionality in Cisco IOS XR Software could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition. The vulnerabilities are due to incorrect processing of BGP update messages that contain crafted EVPN attributes. An attacker could exploit these vulnerabilities by sending BGP EVPN update messages with malformed attributes to be processed by an affected system. A successful exploit could allow the attacker to cause the BGP process to restart unexpectedly, resulting in a DoS condition. The Cisco implementation of BGP accepts incoming BGP traffic only from explicitly defined peers. To exploit these vulnerabilities, the malicious BGP update message would need to come from a configured, valid BGP peer, or would need to be injected by the attacker into the victim's BGP network on an existing, valid TCP connection to a BGP peer.</description>
+    <dc:date>2020-01-26T05:15:16Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-16024">
+    <title>CVE-2019-16024</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-16024</link>
+    <description>A vulnerability in the web-based management interface of Cisco Crosswork Change Automation could allow an unauthenticated, remote attacker to conduct a cross-site scripting (XSS) attack against a user of the web-based management interface of an affected system. The vulnerability is due to insufficient validation of user-supplied input by the web-based management interface of an affected system. An attacker could exploit this vulnerability by persuading a user to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the affected interface or access sensitive, browser-based information.</description>
+    <dc:date>2020-01-26T05:15:16Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-16026">
+    <title>CVE-2019-16026</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-16026</link>
+    <description>A vulnerability in the implementation of the Stream Control Transmission Protocol (SCTP) on Cisco Mobility Management Entity (MME) could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition on an eNodeB that is connected to an affected device. The vulnerability is due to insufficient input validation of SCTP traffic. An attacker could exploit this vulnerability by leveraging a man-in-the-middle position between the eNodeB and the MME and then sending a crafted SCTP message to the MME. A successful exploit would cause the MME to stop sending SCTP messages to the eNodeB, triggering a DoS condition.</description>
+    <dc:date>2020-01-26T05:15:16Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-16027">
+    <title>CVE-2019-16027</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-16027</link>
+    <description>A vulnerability in the implementation of the Intermediate System&amp;amp;ndash;to&amp;amp;ndash;Intermediate System (IS&amp;amp;ndash;IS) routing protocol functionality in Cisco IOS XR Software could allow an authenticated, remote attacker to cause a denial of service (DoS) condition in the IS&amp;amp;ndash;IS process. The vulnerability is due to improper handling of a Simple Network Management Protocol (SNMP) request for specific Object Identifiers (OIDs) by the IS&amp;amp;ndash;IS process. An attacker could exploit this vulnerability by sending a crafted SNMP request to the affected device. A successful exploit could allow the attacker to cause a DoS condition in the IS&amp;amp;ndash;IS process.</description>
+    <dc:date>2020-01-26T05:15:16Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-16029">
+    <title>CVE-2019-16029</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-16029</link>
+    <description>A vulnerability in the application programming interface (API) of Cisco Smart Software Manager On-Prem could allow an unauthenticated, remote attacker to change user account information which can prevent users from logging in, resulting in a denial of service (DoS) condition of the web interface. The vulnerability is due to the lack of input validation in the API. An attacker could exploit this vulnerability by sending a crafted HTTP request to an affected device. An exploit could allow the attacker to change or corrupt user account information which could grant the attacker administrator access or prevent legitimate user access to the web interface, resulting in a denial of service (DoS) condition.</description>
+    <dc:date>2020-01-26T05:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-16153">
     <title>CVE-2019-16153</title>
@@ -3685,18 +3844,6 @@
     <link>https://cve.moabi.com/cve/?id=CVE-2019-20381</link>
     <description>TestLink before 1.9.20 allows XSS via non-lowercase javascript: in the index.php reqURI parameter. NOTE: this issue exists because of an incomplete fix for CVE-2019-19491.</description>
     <dc:date>2020-01-20T06:15:11Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-20384">
-    <title>CVE-2019-20384</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2019-20384</link>
-    <description>Gentoo Portage through 2.3.84 allows local users to place a Trojan horse plugin in the /usr/lib64/nagios/plugins directory by leveraging access to the nagios user account, because this directory is writable in between a call to emake and a call to fowners.</description>
-    <dc:date>2020-01-21T00:15:14Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-20385">
-    <title>CVE-2019-20385</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2019-20385</link>
-    <description>The CSV upload feature in /supervisor/procesa_carga.php on Logaritmo Aware CallManager 2012 devices allows upload of .php files with a text/* content type. The PHP code can then be executed by visiting a /supervisor/csv/ URI.</description>
-    <dc:date>2020-01-21T01:15:10Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-20386">
     <title>CVE-2019-20386</title>
@@ -4580,6 +4727,54 @@
     <description>Vulnerability in the Oracle Financial Services Analytical Applications Infrastructure product of Oracle Financial Services Applications (component: Object Migration). Supported versions that are affected are 8.0.4-8.0.8. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Financial Services Analytical Applications Infrastructure. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle Financial Services Analytical Applications Infrastructure accessible data as well as unauthorized update, insert or delete access to some of Oracle Financial Services Analytical Applications Infrastructure accessible data. CVSS 3.0 Base Score 7.1 (Confidentiality and Integrity impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:L/A:N).</description>
     <dc:date>2020-01-15T17:15:26Z</dc:date>
   </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3115">
+    <title>CVE-2020-3115</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-3115</link>
+    <description>A vulnerability in the CLI of the Cisco SD-WAN Solution vManage software could allow an authenticated, local attacker to elevate privileges to root-level privileges on the underlying operating system. The vulnerability is due to insufficient input validation. An attacker could exploit this vulnerability by sending a crafted file to the affected system. An exploit could allow the attacker to elevate privileges to root-level privileges.</description>
+    <dc:date>2020-01-26T05:15:17Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3121">
+    <title>CVE-2020-3121</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-3121</link>
+    <description>A vulnerability in the web-based management interface of Cisco Small Business Smart and Managed Switches could allow an unauthenticated, remote attacker to conduct a cross-site scripting (XSS) attack against a user of the interface. The vulnerability is due to insufficient validation of user-supplied input by the web-based management interface of the affected device. An attacker could exploit this vulnerability by persuading a user of the interface to click a malicious link and access a specific page. A successful exploit could allow the attacker to execute arbitrary script code in the context of the affected interface or access sensitive, browser-based information.</description>
+    <dc:date>2020-01-26T05:15:17Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3129">
+    <title>CVE-2020-3129</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-3129</link>
+    <description>A vulnerability in the web-based management interface of Cisco Unity Connection Software could allow an authenticated, remote attacker to perform a stored cross-site scripting (XSS) attack. The vulnerability is due to insufficient input validation by the web-based management interface. An attacker could exploit this vulnerability by providing crafted data to a specific field within the interface. A successful exploit could allow the attacker to store an XSS attack within the interface. This stored XSS attack would then be executed on the system of any user viewing the attacker-supplied data element.</description>
+    <dc:date>2020-01-26T05:15:17Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3131">
+    <title>CVE-2020-3131</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-3131</link>
+    <description>[CVE-2020-3131_su] A vulnerability in the Cisco Webex Teams client for Windows could allow an authenticated, remote attacker to cause the client to crash, resulting in a denial of service (DoS) condition. The attacker needs a valid developer account to exploit this vulnerability. The vulnerability is due to insufficient input validation when processing received adaptive cards. The attacker could exploit this vulnerability by sending an adaptive card with malicious content to an existing user of the Cisco Webex Teams client for Windows. A successful exploit could allow the attacker to cause the targeted user's client to crash continuously.</description>
+    <dc:date>2020-01-26T05:15:17Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3134">
+    <title>CVE-2020-3134</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-3134</link>
+    <description>[CVE-2020-3134_su] A vulnerability in the zip decompression engine of Cisco AsyncOS Software for Cisco Email Security Appliance (ESA) could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition on an affected device. The vulnerability is due to improper validation of zip files. An attacker could exploit this vulnerability by sending an email message with a crafted zip-compressed attachment. A successful exploit could trigger a restart of the content-scanning process, causing a temporary DoS condition.</description>
+    <dc:date>2020-01-26T05:15:17Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3136">
+    <title>CVE-2020-3136</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-3136</link>
+    <description>[CVE-2020-3136_su] A vulnerability in the web-based management interface of Cisco Jabber Guest could allow an unauthenticated, remote attacker to conduct a cross-site scripting (XSS) attack against a user of the web-based management interface of an affected device. The vulnerability exists because the web-based management interface of the affected device does not properly validate user-supplied input. An attacker could exploit this vulnerability by persuading a user to click a malicious link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the affected interface or to access sensitive, browser-based information.</description>
+    <dc:date>2020-01-26T05:15:17Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3139">
+    <title>CVE-2020-3139</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-3139</link>
+    <description>[CVE-2020-3139_su] A vulnerability in the out of band (OOB) management interface IP table rule programming for Cisco Application Policy Infrastructure Controller (APIC) could allow an unauthenticated, remote attacker to bypass configured deny entries for specific IP ports. These IP ports would be permitted to the OOB management interface when, in fact, the packets should be dropped. The vulnerability is due to the configuration of specific IP table entries for which there is a programming logic error that results in the IP port being permitted. An attacker could exploit this vulnerability by sending traffic to the OOB management interface on the targeted device. A successful exploit could allow the attacker to bypass configured IP table rules to drop specific IP port traffic. The attacker has no control over the configuration of the device itself.</description>
+    <dc:date>2020-01-26T05:15:17Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3142">
+    <title>CVE-2020-3142</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-3142</link>
+    <description>[CVE-2020-3142_su] A vulnerability in Cisco Webex Meetings Suite sites and Cisco Webex Meetings Online sites could allow an unauthenticated, remote attendee to join a password-protected meeting without providing the meeting password. The connection attempt must initiate from a Webex mobile application for either iOS or Android. The vulnerability is due to unintended meeting information exposure in a specific meeting join flow for mobile applications. An unauthorized attendee could exploit this vulnerability by accessing a known meeting ID or meeting URL from the mobile device&amp;amp;rsquo;s web browser. The browser will then request to launch the device&amp;amp;rsquo;s Webex mobile application. A successful exploit could allow the unauthorized attendee to join the password-protected meeting. The unauthorized attendee will be visible in the attendee list of the meeting as a mobile attendee. Cisco has applied updates that address this vulnerability and no user action is required.</description>
+    <dc:date>2020-01-26T05:15:17Z</dc:date>
+  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3941">
     <title>CVE-2020-3941 (vmware_tools)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3941</link>
@@ -5012,12 +5207,6 @@
     <description>Parallels 13 uses cleartext HTTP as part of the update process, allowing man-in-the-middle attacks. Users of out-of-date versions are presented with a pop-up window for a parallels_updates.xml file on the http://update.parallels.com web site.</description>
     <dc:date>2020-01-21T17:15:12Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7215">
-    <title>CVE-2020-7215</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7215</link>
-    <description>An issue was discovered in Gallagher Command Centre 7.x before 7.90.991(MR5), 8.00 before 8.00.1161(MR5), and 8.10 before 8.10.1134(MR4). External system configuration data (used for third party integrations such as DVR systems) were logged in the Command Centre event trail. Any authenticated operator with the 'view events' privilege could see the full configuration, including cleartext usernames and passwords, under the event details of a Modified DVR System event.</description>
-    <dc:date>2020-01-20T06:15:11Z</dc:date>
-  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7220">
     <title>CVE-2020-7220</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-7220</link>
@@ -5060,12 +5249,6 @@
     <description>UHP UHP-100 3.4.1.15, 3.4.2.4, and 3.4.3 devices allow XSS via cw2?td= (Site Name field of the Site Setup section).</description>
     <dc:date>2020-01-19T21:15:11Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7237">
-    <title>CVE-2020-7237</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7237</link>
-    <description>Cacti 1.2.8 allows Remote Code Execution (by privileged users) via shell metacharacters in the Performance Boost Debug Log field of poller_automation.php. OS commands are executed when a new poller cycle begins. The attacker must be authenticated, and must have access to modify the Performance Settings of the product.</description>
-    <dc:date>2020-01-20T05:15:11Z</dc:date>
-  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7239">
     <title>CVE-2020-7239 (chatbot_with_ibm_watson)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-7239</link>
@@ -5076,12 +5259,6 @@
     <title>CVE-2020-7240 (lantime_m1000_firmware, lantime_m300_firmware)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-7240</link>
     <description>Meinberg Lantime M300 and M1000 devices allow attackers (with privileges to configure a device) to execute arbitrary OS commands by editing the /config/netconf.cmd script (aka Extended Network Configuration).</description>
-    <dc:date>2020-01-20T20:15:11Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7241">
-    <title>CVE-2020-7241</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7241</link>
-    <description>The WP Database Backup plugin through 5.5 for WordPress stores downloads by default locally in the directory wp-content/uploads/db-backup/. This might allow attackers to read ZIP archives by guessing random ID numbers, guessing date strings with a 2020_{0..1}{0..2}_{0..3}{0..9} format, guessing UNIX timestamps, and making HTTPS requests with the complete guessed URL.</description>
     <dc:date>2020-01-20T20:15:11Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7242">
@@ -5114,12 +5291,6 @@
     <description>A remote code execution (RCE) vulnerability exists in qdPM 9.1 and earlier. An attacker can upload a malicious PHP code file via the profile photo functionality, by leveraging a path traversal vulnerability in the users['photop_preview'] delete photo feature, allowing bypass of .htaccess protection. NOTE: this issue exists because of an incomplete fix for CVE-2015-3884.</description>
     <dc:date>2020-01-21T14:15:13Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7249">
-    <title>CVE-2020-7249</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7249</link>
-    <description>SMC D3G0804W 3.5.2.5-LAT_GA devices allow XSS via the SSID field on the WiFi Network Configuration page (after a successful login to the admin account).</description>
-    <dc:date>2020-01-21T01:15:10Z</dc:date>
-  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7470">
     <title>CVE-2020-7470 (th10_firmware, th16_firmware)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-7470</link>
@@ -5137,6 +5308,12 @@
     <link>https://cve.moabi.com/cve/?id=CVE-2020-7595</link>
     <description>xmlStringLenDecodeEntities in parser.c in libxml2 2.9.10 has an infinite loop in a certain end-of-file situation.</description>
     <dc:date>2020-01-21T23:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7596">
+    <title>CVE-2020-7596</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7596</link>
+    <description>Codecov npm module before 3.6.2 allows remote attackers to execute arbitrary commands via the &amp;quot;gcov-args&amp;quot; argument.</description>
+    <dc:date>2020-01-25T19:15:12Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7915">
     <title>CVE-2020-7915 (5p_850_firmware)</title>
@@ -5191,6 +5368,18 @@
     <link>https://cve.moabi.com/cve/?id=CVE-2020-7964</link>
     <description>An issue was discovered in Mirumee Saleor 2.x before 2.9.1. Incorrect access control in the checkoutCustomerAttach mutations allows attackers to attach their checkouts to any user ID and consequently leak user data (e.g., name, address, and previous orders of any other customer).</description>
     <dc:date>2020-01-24T20:15:11Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7980">
+    <title>CVE-2020-7980</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7980</link>
+    <description>Intellian Aptus Web 1.24 allows remote attackers to execute arbitrary OS commands via the Q field within JSON data to the cgi-bin/libagent.cgi URI. NOTE: a valid sid cookie for a login to the intellian default account might be needed.</description>
+    <dc:date>2020-01-25T19:15:12Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7981">
+    <title>CVE-2020-7981</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7981</link>
+    <description>sql.rb in Geocoder before 1.6.1 allows Boolean-based SQL injection when within_bounding_box is used in conjunction with untrusted sw_lat, sw_lng, ne_lat, or ne_lng data.</description>
+    <dc:date>2020-01-25T20:15:09Z</dc:date>
   </item>
 </rdf:RDF>
 
