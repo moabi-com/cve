@@ -6,27 +6,35 @@
     <description>This feed contains the most recent CVE cyber vulnerabilities published within the National Vulnerability Database.</description>
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2016-11023" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2016-11024" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2018-11106" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2018-11802" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2018-13371" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-10180" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2018-17954" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-11254" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-13495" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-14868" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-14880" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-14905" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-17560" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-17561" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-17230" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-17231" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-17564" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19605" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19606" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19912" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19913" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-20634" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-18904" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-18905" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19000" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19001" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19002" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19003" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19089" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19090" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19091" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19092" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19093" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19094" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19095" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19096" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19097" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19346" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19348" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19699" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19914" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-20635" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-2391" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-3942" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-3944" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-3945" />
@@ -41,20 +49,20 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-7015" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-7016" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-7017" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-7755" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-9163" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-9507" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-9508" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-9509" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10199" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10203" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10204" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10231" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10374" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10560" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10595" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10264" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10265" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10266" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10267" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10515" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10598" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10696" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10599" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10601" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10689" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10860" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10861" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10862" />
@@ -65,15 +73,11 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10867" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10868" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10948" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10960" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11100" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11104" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11105" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11106" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11111" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11112" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11113" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11414" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11441" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11102" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11107" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11444" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11445" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11449" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11450" />
@@ -94,7 +98,25 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11470" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11490" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11491" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-1712" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11494" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11498" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11499" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11500" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11501" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11507" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11518" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11527" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11528" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11529" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11533" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11542" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11544" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11545" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11547" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11548" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11558" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11565" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-1728" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-1927" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-1934" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-1943" />
@@ -138,64 +160,73 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-3916" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-3917" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-3919" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-4206" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-4208" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-4214" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-4235" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-4236" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-4237" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-4238" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-4239" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-4240" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-4241" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-4242" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-4273" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-4303" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-4304" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-4325" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5255" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5274" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5275" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5284" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5289" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5283" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5290" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5291" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5292" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5344" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5300" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5347" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5348" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5391" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5392" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5527" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5548" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5551" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5723" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5724" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5725" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5726" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-6008" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-6009" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-6096" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-6753" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-6852" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7009" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-6994" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7000" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7004" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7008" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7064" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7065" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7066" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7263" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7599" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7610" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7611" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7617" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7619" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7620" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7621" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7622" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7623" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7624" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7625" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7626" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7627" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7628" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7629" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7630" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7631" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7632" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7633" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7634" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7635" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7636" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7637" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7638" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7639" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7947" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7948" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8004" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8015" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8016" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8017" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8142" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8143" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8144" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8145" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8146" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8147" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8423" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8509" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8637" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8638" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8639" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8835" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8966" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-9055" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-9067" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-9349" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-9473" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-9768" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-9769" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-9770" />
@@ -210,22 +241,10 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-9785" />
       </rdf:Seq>
     </items>
-    <dc:date>2020-04-02T18:00:00Z</dc:date>
+    <dc:date>2020-04-06T20:00:00Z</dc:date>
     <dc:language>en-us</dc:language>
     <dc:rights>This material is not copywritten and may be freely used, however, attribution is requested.</dc:rights>
   </channel>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2016-11023">
-    <title>CVE-2016-11023 (odata4j)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2016-11023</link>
-    <description>odata4j 0.7.0 allows ExecuteCountQueryCommand.java SQL injection. NOTE: this product is apparently discontinued.</description>
-    <dc:date>2020-03-30T20:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2016-11024">
-    <title>CVE-2016-11024 (odata4j)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2016-11024</link>
-    <description>odata4j 0.7.0 allows ExecuteJPQLQueryCommand.java SQL injection. NOTE: this product is apparently discontinued.</description>
-    <dc:date>2020-03-30T20:15:13Z</dc:date>
-  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2018-11106">
     <title>CVE-2018-11106</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2018-11106</link>
@@ -233,112 +252,172 @@
     <dc:date>2020-04-01T17:15:14Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2018-11802">
-    <title>CVE-2018-11802</title>
+    <title>CVE-2018-11802 (solr)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2018-11802</link>
     <description>In Apache Solr, the cluster can be partitioned into multiple collections and only a subset of nodes actually host any given collection. However, if a node receives a request for a collection it does not host, it proxies the request to a relevant node and serves the request. Solr bypasses all authorization settings for such requests. This affects all Solr versions prior to 7.7 that use the default authorization mechanism of Solr (RuleBasedAuthorizationPlugin).</description>
     <dc:date>2020-04-01T22:15:15Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2018-13371">
-    <title>CVE-2018-13371</title>
+    <title>CVE-2018-13371 (fortios)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2018-13371</link>
     <description>An external control of system vulnerability in FortiOS may allow an authenticated, regular user to change the routing settings of the device via connecting to the ZebOS component.</description>
     <dc:date>2020-04-02T14:15:14Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-10180">
-    <title>CVE-2019-10180 (certificate_system, dogtagpki)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2019-10180</link>
-    <description>A vulnerability was found in all pki-core 10.x.x version, where the Token Processing Service (TPS) did not properly sanitize several parameters stored for the tokens, possibly resulting in a Stored Cross Site Scripting (XSS) vulnerability. An attacker able to modify the parameters of any token could use this flaw to trick an authenticated user into executing arbitrary JavaScript code.</description>
-    <dc:date>2020-03-31T17:15:25Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2018-17954">
+    <title>CVE-2018-17954</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2018-17954</link>
+    <description>A Least Privilege Violation vulnerability in crowbar of SUSE OpenStack Cloud 7, SUSE OpenStack Cloud 8, SUSE OpenStack Cloud 9, SUSE OpenStack Cloud Crowbar 8, SUSE OpenStack Cloud Crowbar 9 allows root users on any crowbar managed node to cause become root on any other node. This issue affects: SUSE OpenStack Cloud 7 crowbar-core versions prior to 4.0+git.1578392992.fabfd186c-9.63.1, crowbar-. SUSE OpenStack Cloud 8 ardana-cinder versions prior to 8.0+git.1579279939.ee7da88-3.39.3, ardana-. SUSE OpenStack Cloud 9 ardana-ansible versions prior to 9.0+git.1581611758.f694f7d-3.16.1, ardana-. SUSE OpenStack Cloud Crowbar 8 crowbar-core versions prior to 5.0+git.1582968668.1a55c77c5-3.35.4, crowbar-. SUSE OpenStack Cloud Crowbar 9 crowbar-core versions prior to 6.0+git.1582892022.cbd70e833-3.19.3, crowbar-.</description>
+    <dc:date>2020-04-03T07:15:11Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-11254">
-    <title>CVE-2019-11254</title>
+    <title>CVE-2019-11254 (kubernetes)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2019-11254</link>
     <description>The Kubernetes API Server component in versions 1.1-1.14, and versions prior to 1.15.10, 1.16.7 and 1.17.3 allows an authorized user who sends malicious YAML payloads to cause the kube-apiserver to consume excessive CPU cycles while parsing YAML.</description>
     <dc:date>2020-04-01T21:15:13Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-13495">
-    <title>CVE-2019-13495 (xgs2210-52hp_firmware)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2019-13495</link>
-    <description>In firmware version 4.50 of Zyxel XGS2210-52HP, multiple stored cross-site scripting (XSS) issues allows remote authenticated users to inject arbitrary web script via an rpSys.html Name or Location field.</description>
-    <dc:date>2020-03-31T18:15:26Z</dc:date>
-  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-14868">
-    <title>CVE-2019-14868</title>
+    <title>CVE-2019-14868 (ksh)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2019-14868</link>
     <description>In ksh version 20120801, a flaw was found in the way it evaluates certain environment variables. An attacker could use this flaw to override or bypass environment restrictions to execute shell commands. Services and applications that allow remote unauthenticated attackers to provide one of those environment variables could allow them to exploit this issue remotely.</description>
     <dc:date>2020-04-02T17:15:13Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-14880">
-    <title>CVE-2019-14880 (moodle)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2019-14880</link>
-    <description>A vulnerability was found in Moodle versions 3.7 before 3.7.3, 3.6 before 3.6.7, 3.5 before 3.5.9 and earlier. OAuth 2 providers who do not verify users' email address changes require additional verification during sign-up to reduce the risk of account compromise.</description>
-    <dc:date>2020-03-31T16:15:13Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-17230">
+    <title>CVE-2019-17230 (onetone)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-17230</link>
+    <description>includes/theme-functions.php in the OneTone theme through 3.0.6 for WordPress allows unauthenticated options changes.</description>
+    <dc:date>2020-04-03T15:15:14Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-14905">
-    <title>CVE-2019-14905 (ansible_engine, ansible_tower, ceph_storage, cloudforms_management_engine, fedora, openstack)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2019-14905</link>
-    <description>A vulnerability was found in Ansible Engine versions 2.9.x before 2.9.3, 2.8.x before 2.8.8, 2.7.x before 2.7.16 and earlier, where in Ansible's nxos_file_copy module can be used to copy files to a flash or bootflash on NXOS devices. Malicious code could craft the filename parameter to perform OS command injections. This could result in a loss of confidentiality of the system among other issues.</description>
-    <dc:date>2020-03-31T17:15:26Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-17560">
-    <title>CVE-2019-17560 (netbeans)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2019-17560</link>
-    <description>The &amp;quot;Apache NetBeans&amp;quot; autoupdate system does not validate SSL certificates and hostnames for https based downloads. This allows an attacker to intercept downloads of autoupdates and modify the download, potentially injecting malicious code. &amp;acirc;&amp;euro;&amp;oelig;Apache NetBeans&amp;quot; versions up to and including 11.2 are affected by this vulnerability.</description>
-    <dc:date>2020-03-30T19:15:15Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-17561">
-    <title>CVE-2019-17561 (netbeans)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2019-17561</link>
-    <description>The &amp;quot;Apache NetBeans&amp;quot; autoupdate system does not fully validate code signatures. An attacker could modify the downloaded nbm and include additional code. &amp;quot;Apache NetBeans&amp;quot; versions up to and including 11.2 are affected by this vulnerability.</description>
-    <dc:date>2020-03-30T19:15:15Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-17231">
+    <title>CVE-2019-17231 (onetone)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-17231</link>
+    <description>includes/theme-functions.php in the OneTone theme through 3.0.6 for WordPress has multiple stored XSS issues.</description>
+    <dc:date>2020-04-03T15:15:14Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-17564">
-    <title>CVE-2019-17564</title>
+    <title>CVE-2019-17564 (dubbo)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2019-17564</link>
     <description>Unsafe deserialization occurs within a Dubbo application which has HTTP remoting enabled. An attacker may submit a POST request with a Java object in it to completely compromise a Provider instance of Apache Dubbo, if this instance enables HTTP. This issue affected Apache Dubbo 2.7.0 to 2.7.4, 2.6.0 to 2.6.7, and all 2.5.x versions.</description>
     <dc:date>2020-04-01T22:15:15Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19605">
-    <title>CVE-2019-19605 (x-plane)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2019-19605</link>
-    <description>X-Plane before 11.41 allows Arbitrary Memory Write via crafted network packets, which could cause a denial of service or arbitrary code execution.</description>
-    <dc:date>2020-03-30T22:15:13Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-18904">
+    <title>CVE-2019-18904 (rmt-server)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-18904</link>
+    <description>A Uncontrolled Resource Consumption vulnerability in rmt of SUSE Linux Enterprise High Performance Computing 15-ESPOS, SUSE Linux Enterprise High Performance Computing 15-LTSS, SUSE Linux Enterprise Module for Public Cloud 15-SP1, SUSE Linux Enterprise Module for Server Applications 15, SUSE Linux Enterprise Module for Server Applications 15-SP1, SUSE Linux Enterprise Server 15-LTSS, SUSE Linux Enterprise Server for SAP 15; openSUSE Leap 15.1 allows remote attackers to cause DoS against rmt by requesting migrations. This issue affects: SUSE Linux Enterprise High Performance Computing 15-ESPOS rmt-server versions prior to 2.5.2-3.26.1. SUSE Linux Enterprise High Performance Computing 15-LTSS rmt-server versions prior to 2.5.2-3.26.1. SUSE Linux Enterprise Module for Public Cloud 15-SP1 rmt-server versions prior to 2.5.2-3.9.1. SUSE Linux Enterprise Module for Server Applications 15 rmt-server versions prior to 2.5.2-3.26.1. SUSE Linux Enterprise Module for Server Applications 15-SP1 rmt-server versions prior to 2.5.2-3.9.1. SUSE Linux Enterprise Server 15-LTSS rmt-server versions prior to 2.5.2-3.26.1. SUSE Linux Enterprise Server for SAP 15 rmt-server versions prior to 2.5.2-3.26.1. openSUSE Leap 15.1 rmt-server versions prior to 2.5.2-lp151.2.9.1.</description>
+    <dc:date>2020-04-03T07:15:11Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19606">
-    <title>CVE-2019-19606 (x-plane)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2019-19606</link>
-    <description>X-Plane before 11.41 has multiple improper path validations that could allow reading and writing files from/to arbitrary paths (or a leak of OS credentials to a remote system) via crafted network packets. This could be used to execute arbitrary commands on the system.</description>
-    <dc:date>2020-03-30T22:15:13Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-18905">
+    <title>CVE-2019-18905 (autoyast2)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-18905</link>
+    <description>A Insufficient Verification of Data Authenticity vulnerability in autoyast2 of SUSE Linux Enterprise Server 12, SUSE Linux Enterprise Server 15 allows remote attackers to MITM connections when deprecated and unused functionality of autoyast is used to create images. This issue affects: SUSE Linux Enterprise Server 12 autoyast2 version 4.1.9-3.9.1 and prior versions. SUSE Linux Enterprise Server 15 autoyast2 version 4.0.70-3.20.1 and prior versions.</description>
+    <dc:date>2020-04-03T11:15:12Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19912">
-    <title>CVE-2019-19912 (codebeamer_application_lifecycle_management)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2019-19912</link>
-    <description>In Intland codeBeamer ALM 9.5 and earlier, a cross-site scripting (XSS) vulnerability in the Upload Flash File feature allows authenticated remote attackers to inject arbitrary scripts via an active script embedded in an SWF file.</description>
-    <dc:date>2020-03-30T22:15:13Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19000">
+    <title>CVE-2019-19000 (esoms)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-19000</link>
+    <description>For ABB eSOMS 4.0 to 6.0.3, the Cache-Control and Pragma HTTP header(s) have not been properly configured within the application response. This can potentially allow browsers and proxies to cache sensitive information.</description>
+    <dc:date>2020-04-02T20:15:13Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19913">
-    <title>CVE-2019-19913 (codebeamer_application_lifecycle_management)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2019-19913</link>
-    <description>In Intland codeBeamer ALM 9.5 and earlier, there is stored XSS via the Trackers Title parameter.</description>
-    <dc:date>2020-03-30T22:15:13Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19001">
+    <title>CVE-2019-19001 (esoms)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-19001</link>
+    <description>For ABB eSOMS versions 4.0 to 6.0.2, the X-Frame-Options header is not configured in HTTP response. This can potentially allow 'ClickJacking' attacks where an attacker can frame parts of the application on a malicious web site, revealing sensitive user information such as authentication credentials.</description>
+    <dc:date>2020-04-02T20:15:13Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-20634">
-    <title>CVE-2019-20634 (email_protection)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2019-20634</link>
-    <description>An issue was discovered in Proofpoint Email Protection through 2019-09-08. By collecting scores from Proofpoint email headers, it is possible to build a copy-cat Machine Learning Classification model and extract insights from this model. The insights gathered allow an attacker to craft emails that receive preferable scores, with a goal of delivering malicious emails.</description>
-    <dc:date>2020-03-30T21:15:12Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19002">
+    <title>CVE-2019-19002 (esoms)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-19002</link>
+    <description>For ABB eSOMS versions 4.0 to 6.0.2, the X-XSS-Protection HTTP response header is not set in responses from the web server. For older web browser not supporting Content Security Policy, this might increase the risk of Cross Site Scripting.</description>
+    <dc:date>2020-04-02T20:15:14Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19003">
+    <title>CVE-2019-19003 (esoms)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-19003</link>
+    <description>For ABB eSOMS versions 4.0 to 6.0.2, the HTTPOnly flag is not set. This can allow Javascript to access the cookie contents, which in turn might enable Cross Site Scripting.</description>
+    <dc:date>2020-04-02T20:15:14Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19089">
+    <title>CVE-2019-19089 (esoms)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-19089</link>
+    <description>For ABB eSOMS versions 4.0 to 6.0.3, the X-Content-Type-Options Header is missing in the HTTP response, potentially causing the response body to be interpreted and displayed as different content type other than declared. A possible attack scenario would be unauthorized code execution via text interpreted as JavaScript.</description>
+    <dc:date>2020-04-02T20:15:14Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19090">
+    <title>CVE-2019-19090 (esoms)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-19090</link>
+    <description>For ABB eSOMS versions 4.0 to 6.0.2, the Secure Flag is not set in the HTTP response header. Unencrypted connections might access the cookie information, thus making it susceptible to eavesdropping.</description>
+    <dc:date>2020-04-02T20:15:14Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19091">
+    <title>CVE-2019-19091 (esoms)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-19091</link>
+    <description>For ABB eSOMS versions 4.0 to 6.0.3, HTTPS responses contain comments with sensitive information about the application. An attacker might use this detail information to specifically craft the attack.</description>
+    <dc:date>2020-04-02T20:15:14Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19092">
+    <title>CVE-2019-19092 (esoms)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-19092</link>
+    <description>ABB eSOMS versions 4.0 to 6.0.3 use ASP.NET Viewstate without Message Authentication Code (MAC). Alterations to Viewstate might thus not be noticed.</description>
+    <dc:date>2020-04-02T20:15:14Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19093">
+    <title>CVE-2019-19093 (esoms)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-19093</link>
+    <description>eSOMS versions 4.0 to 6.0.3 do not enforce password complexity settings, potentially resulting in lower access security due to insecure user passwords.</description>
+    <dc:date>2020-04-02T20:15:14Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19094">
+    <title>CVE-2019-19094 (esoms)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-19094</link>
+    <description>Lack of input checks for SQL queries in ABB eSOMS versions 3.9 to 6.0.3 might allow an attacker SQL injection attacks against the backend database.</description>
+    <dc:date>2020-04-02T20:15:15Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19095">
+    <title>CVE-2019-19095 (esoms)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-19095</link>
+    <description>Lack of adequate input/output validation for ABB eSOMS versions 4.0 to 6.0.2 might allow an attacker to attack such as stored cross-site scripting by storing malicious content in the database.</description>
+    <dc:date>2020-04-02T20:15:15Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19096">
+    <title>CVE-2019-19096 (esoms)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-19096</link>
+    <description>The Redis data structure component used in ABB eSOMS versions 6.0 to 6.0.2 stores credentials in clear text. If an attacker has file system access, this can potentially compromise the credentials' confidentiality.</description>
+    <dc:date>2020-04-02T20:15:15Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19097">
+    <title>CVE-2019-19097 (esoms)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-19097</link>
+    <description>ABB eSOMS versions 4.0 to 6.0.3 accept connections using medium strength ciphers. If a connection is enabled using such a cipher, an attacker might be able to eavesdrop and/or intercept the connection.</description>
+    <dc:date>2020-04-02T20:15:15Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19346">
+    <title>CVE-2019-19346 (openshift)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-19346</link>
+    <description>An insecure modification vulnerability in the /etc/passwd file was found in the container openshift/mariadb-apb, affecting versions before the following 4.3.5, 4.2.21, 4.1.37, and 3.11.188-4 . An attacker with access to the container could use this flaw to modify /etc/passwd and escalate their privileges.</description>
+    <dc:date>2020-04-02T20:15:15Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19348">
+    <title>CVE-2019-19348 (openshift)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-19348</link>
+    <description>An insecure modification vulnerability in the /etc/passwd file was found in the container openshift/apb-base, affecting versions before the following 4.3.5, 4.2.21, 4.1.37, and 3.11.188-4. An attacker with access to the container could use this flaw to modify /etc/passwd and escalate their privileges.</description>
+    <dc:date>2020-04-02T20:15:15Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19699">
+    <title>CVE-2019-19699</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-19699</link>
+    <description>There is Authenticated remote code execution in Centreon Infrastructure Monitoring Software through 19.10 via Pollers misconfiguration, leading to system compromise via apache crontab misconfiguration, This allows the apache user to modify an executable file executed by root at 22:30 every day. To exploit the vulnerability, someone must have Admin access to the Centreon Web Interface and create a custom main.php?p=60803&amp;amp;type=3 command. The user must then set the Pollers Post-Restart Command to this previously created command via the main.php?p=60901&amp;amp;o=c&amp;amp;server_id=1 URI. This is triggered via an export of the Poller Configuration.</description>
+    <dc:date>2020-04-06T16:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19914">
+    <title>CVE-2019-19914</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2019-19914</link>
+    <description>** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none.</description>
+    <dc:date>2020-04-03T01:15:11Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-20635">
-    <title>CVE-2019-20635</title>
+    <title>CVE-2019-20635 (codebeamer)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2019-20635</link>
     <description>codeBeamer before 9.5.0-RC3 does not properly restrict the ability to execute custom Java code and access the Java class loader via computed fields.</description>
     <dc:date>2020-04-02T16:15:14Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-2391">
-    <title>CVE-2019-2391</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2019-2391</link>
-    <description>Incorrect parsing of certain JSON input may result in js-bson not correctly serializing BSON. This may cause unexpected application behaviour including data disclosure.</description>
-    <dc:date>2020-03-31T14:15:14Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-3942">
     <title>CVE-2019-3942 (webaccess)</title>
@@ -424,38 +503,14 @@
     <description>** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2019. Notes: none.</description>
     <dc:date>2020-04-02T14:15:14Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-7755">
-    <title>CVE-2019-7755</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2019-7755</link>
-    <description>In webERP 4.15, the Import Bank Transactions function fails to sanitize the content of imported MT940 bank statement files, resulting in the execution of arbitrary SQL queries, aka SQL Injection.</description>
-    <dc:date>2020-03-30T17:15:14Z</dc:date>
-  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-9163">
-    <title>CVE-2019-9163</title>
+    <title>CVE-2019-9163 (command_client)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2019-9163</link>
     <description>The connection initiation process in March Networks Command Client before 2.7.2 allows remote attackers to execute arbitrary code via crafted XAML objects.</description>
     <dc:date>2020-04-01T21:15:13Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-9507">
-    <title>CVE-2019-9507 (avocent_umg-4000_firmware)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2019-9507</link>
-    <description>The web interface of the Vertiv Avocent UMG-4000 version 4.2.1.19 is vulnerable to command injection because the application incorrectly neutralizes code syntax before executing. Since all commands within the web application are executed as root, this could allow a remote attacker authenticated with an administrator account to execute arbitrary commands as root.</description>
-    <dc:date>2020-03-30T22:15:14Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-9508">
-    <title>CVE-2019-9508 (avocent_umg-4000_firmware)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2019-9508</link>
-    <description>The web interface of the Vertiv Avocent UMG-4000 version 4.2.1.19 is vulnerable to stored XSS. A remote attacker authenticated with an administrator account could store a maliciously named file within the web application that would execute each time a user browsed to the page.</description>
-    <dc:date>2020-03-30T22:15:14Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-9509">
-    <title>CVE-2019-9509 (avocent_umg-4000_firmware)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2019-9509</link>
-    <description>The web interface of the Vertiv Avocent UMG-4000 version 4.2.1.19 is vulnerable to reflected XSS in an HTTP POST parameter. The web application does not neutralize user-controllable input before displaying to users in a web page, which could allow a remote attacker authenticated with a user account to execute arbitrary code.</description>
-    <dc:date>2020-03-30T22:15:14Z</dc:date>
-  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10199">
-    <title>CVE-2020-10199</title>
+    <title>CVE-2020-10199 (nexus)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-10199</link>
     <description>Sonatype Nexus Repository before 3.21.2 allows JavaEL Injection (issue 1 of 2).</description>
     <dc:date>2020-04-01T19:15:14Z</dc:date>
@@ -478,35 +533,59 @@
     <description>TP-Link NC200 through 2.1.8_Build_171109, NC210 through 1.0.9_Build_171214, NC220 through 1.3.0_Build_180105, NC230 through 1.3.0_Build_171205, NC250 through 1.3.0_Build_171205, NC260 through 1.5.1_Build_190805, and NC450 through 1.5.0_Build_181022 devices allow a remote NULL Pointer Dereference.</description>
     <dc:date>2020-04-01T14:15:14Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10374">
-    <title>CVE-2020-10374 (prtg_network_monitor)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-10374</link>
-    <description>A webserver component in Paessler PRTG Network Monitor 19.2.50 to PRTG 20.1.56 allows unauthenticated remote command execution via a crafted POST request or the what parameter of the screenshot function in the Contact Support form.</description>
-    <dc:date>2020-03-30T22:15:15Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10264">
+    <title>CVE-2020-10264</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-10264</link>
+    <description>CB3 SW Version 3.3 and upwards, e-series SW Version 5.0 and upwards allow authenticated access to the RTDE (Real-Time Data Exchange) interface on port 30004 which allows setting registers, the speed slider fraction as well as digital and analog Outputs. Additionally unautheticated reading of robot data is also possible</description>
+    <dc:date>2020-04-06T12:15:12Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10560">
-    <title>CVE-2020-10560</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-10560</link>
-    <description>An issue was discovered in Open Source Social Network (OSSN) through 5.3. A user-controlled file path with a weak cryptographic rand() can be used to read any file with the permissions of the webserver. This can lead to further compromise. The attacker must conduct a brute-force attack against the SiteKey to insert into a crafted URL for components/OssnComments/ossn_com.php and/or libraries/ossn.lib.upgrade.php.</description>
-    <dc:date>2020-03-30T13:15:12Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10265">
+    <title>CVE-2020-10265</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-10265</link>
+    <description>Universal Robots Robot Controllers Version CB2 SW Version 1.4 upwards, CB3 SW Version 3.0 and upwards, e-series SW Version 5.0 and upwards expose a service called DashBoard server at port 29999 that allows for control over core robot functions like starting/stopping programs, shutdown, reset safety and more. The DashBoard server is not protected by any kind of authentication or authorization.</description>
+    <dc:date>2020-04-06T12:15:12Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10595">
-    <title>CVE-2020-10595 (debian_linux, pam-krb5)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-10595</link>
-    <description>pam-krb5 before 4.9 has a buffer overflow that might cause remote code execution in situations involving supplemental prompting by a Kerberos library. It may overflow a buffer provided by the underlying Kerberos library by a single '\0' byte if an attacker responds to a prompt with an answer of a carefully chosen length. The effect may range from heap corruption to stack corruption depending on the structure of the underlying Kerberos library, with unknown effects but possibly including code execution. This code path is not used for normal authentication, but only when the Kerberos library does supplemental prompting, such as with PKINIT or when using the non-standard no_prompt PAM configuration option.</description>
-    <dc:date>2020-03-31T13:15:13Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10266">
+    <title>CVE-2020-10266</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-10266</link>
+    <description>UR+ (Universal Robots+) is a platform of hardware and software component sellers, for Universal Robots robots. When installing any of these components in the robots (e.g. in the UR10), no integrity checks are performed. Moreover, the SDK for making such components can be easily obtained from Universal Robots. An attacker could exploit this flaw by crafting a custom component with the SDK, performing Person-In-The-Middle attacks (PITM) and shipping the maliciously-crafted component on demand.</description>
+    <dc:date>2020-04-06T12:15:12Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10267">
+    <title>CVE-2020-10267</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-10267</link>
+    <description>Universal Robots control box CB 3.1 across firmware versions (tested on 1.12.1, 1.12, 1.11 and 1.10) does not encrypt or protect in any way the intellectual property artifacts installed from the UR+ platform of hardware and software components (URCaps). These files (*.urcaps) are stored under '/root/.urcaps' as plain zip files containing all the logic to add functionality to the UR3, UR5 and UR10 robots. This flaw allows attackers with access to the robot or the robot network (while in combination with other flaws) to retrieve and easily exfiltrate all installed intellectual property.</description>
+    <dc:date>2020-04-06T12:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10515">
+    <title>CVE-2020-10515 (unified_communication_&amp;_collaboration_client)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-10515</link>
+    <description>STARFACE UCC Client before 6.7.1.204 on WIndows allows binary planting to execute code with System rights, aka usd-2020-0006.</description>
+    <dc:date>2020-04-02T22:15:13Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10598">
-    <title>CVE-2020-10598</title>
+    <title>CVE-2020-10598 (pyxis_anesthesia_station_es_firmware, pyxis_medstation_es_firmware)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-10598</link>
     <description>In BD Pyxis MedStation ES System v1.6.1 and Pyxis Anesthesia (PAS) ES System v1.6.1, a restricted desktop environment escape vulnerability exists in the kiosk mode functionality of affected devices. Specially crafted inputs could allow the user to escape the restricted environment, resulting in access to sensitive data.</description>
     <dc:date>2020-04-01T21:15:13Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10696">
-    <title>CVE-2020-10696 (buildah, enterprise_linux, openshift_container_platform)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-10696</link>
-    <description>A path traversal flaw was found in Buildah in versions before 1.14.5. This flaw allows an attacker to trick a user into building a malicious container image hosted on an HTTP(s) server and then write files to the user's system anywhere that the user has permissions.</description>
-    <dc:date>2020-03-31T22:15:14Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10599">
+    <title>CVE-2020-10599 (vbase_editor, vbase_web-remote)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-10599</link>
+    <description>VISAM VBASE Editor version 11.5.0.2 and VBASE Web-Remote Module may allow a vulnerable ActiveX component to be exploited resulting in a buffer overflow, which may lead to a denial-of-service condition and execution of arbitrary code.</description>
+    <dc:date>2020-04-03T18:15:12Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10601">
+    <title>CVE-2020-10601 (vbase_editor, vbase_web-remote)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-10601</link>
+    <description>VISAM VBASE Editor version 11.5.0.2 and VBASE Web-Remote Module allow weak hashing algorithm and insecure permissions which may allow a local attacker to bypass the password-protected mechanism through brute-force attacks, cracking techniques, or overwriting the password hash.</description>
+    <dc:date>2020-04-03T18:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10689">
+    <title>CVE-2020-10689 (che)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-10689</link>
+    <description>A flaw was found in the Eclipse Che up to version 7.8.x, where it did not properly restrict access to workspace pods. An authenticated user can exploit this flaw to bypass JWT proxy and gain access to the workspace pods of another user. Successful exploitation requires knowledge of the service name and namespace of the target pod.</description>
+    <dc:date>2020-04-03T15:15:14Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10860">
     <title>CVE-2020-10860 (antivirus)</title>
@@ -563,64 +642,40 @@
     <dc:date>2020-04-01T18:15:15Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10948">
-    <title>CVE-2020-10948</title>
+    <title>CVE-2020-10948 (alienform2)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-10948</link>
     <description>Jon Hedley AlienForm2 (typically installed as af.cgi or alienform.cgi) 2.0.2 is vulnerable to Remote Command Execution via eval injection, a different issue than CVE-2002-0934. An unauthenticated, remote attacker can exploit this via a series of crafted requests.</description>
     <dc:date>2020-04-01T21:15:13Z</dc:date>
   </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10960">
+    <title>CVE-2020-10960 (mediawiki)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-10960</link>
+    <description>In MediaWiki before 1.34.1, users can add various Cascading Style Sheets (CSS) classes (which can affect what content is shown or hidden in the user interface) to arbitrary DOM nodes via HTML content within a MediaWiki page. This occurs because jquery.makeCollapsible allows applying an event handler to any Cascading Style Sheets (CSS) selector. There is no known way to exploit this for cross-site scripting (XSS).</description>
+    <dc:date>2020-04-03T15:15:14Z</dc:date>
+  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11100">
-    <title>CVE-2020-11100</title>
+    <title>CVE-2020-11100 (debian_linux, haproxy, openshift_container_platform)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-11100</link>
     <description>In hpack_dht_insert in hpack-tbl.c in the HPACK decoder in HAProxy 1.8 through 2.x before 2.1.4, a remote attacker can write arbitrary bytes around a certain location on the heap via a crafted HTTP/2 request, possibly causing remote code execution.</description>
     <dc:date>2020-04-02T15:15:17Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11104">
-    <title>CVE-2020-11104 (cereal)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11104</link>
-    <description>An issue was discovered in USC iLab cereal through 1.3.0. Serialization of an (initialized) C/C++ long double variable into a BinaryArchive or PortableBinaryArchive leaks several bytes of stack or heap memory, from which sensitive information (such as memory layout or private keys) can be gleaned if the archive is distributed outside of a trusted context.</description>
-    <dc:date>2020-03-30T22:15:15Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11102">
+    <title>CVE-2020-11102 (qemu)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11102</link>
+    <description>hw/net/tulip.c in QEMU 4.2.0 has a buffer overflow during the copying of tx/rx buffers because the frame size is not validated against the r/w data length.</description>
+    <dc:date>2020-04-06T16:15:13Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11105">
-    <title>CVE-2020-11105 (cereal)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11105</link>
-    <description>An issue was discovered in USC iLab cereal through 1.3.0. It employs caching of std::shared_ptr values, using the raw pointer address as a unique identifier. This becomes problematic if an std::shared_ptr variable goes out of scope and is freed, and a new std::shared_ptr is allocated at the same address. Serialization fidelity thereby becomes dependent upon memory layout. In short, serialized std::shared_ptr variables cannot always be expected to serialize back into their original values. This can have any number of consequences, depending on the context within which this manifests.</description>
-    <dc:date>2020-03-30T22:15:15Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11107">
+    <title>CVE-2020-11107</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11107</link>
+    <description>An issue was discovered in XAMPP before 7.2.29, 7.3.x before 7.3.16 , and 7.4.x before 7.4.4 on Windows. An unprivileged user can change a .exe configuration in xampp-contol.ini for all users (including admins) to enable arbitrary command execution.</description>
+    <dc:date>2020-04-02T18:15:18Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11106">
-    <title>CVE-2020-11106 (responsive_filemanager)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11106</link>
-    <description>An issue was discovered in Responsive Filemanager through 9.14.0. In the dialog.php page, the session variable $_SESSION['RF'][&amp;quot;view_type&amp;quot;] wasn't sanitized if it was already set. This made stored XSS possible if one opens ajax_calls.php and uses the &amp;quot;view&amp;quot; action and places a payload in the type parameter, and then returns to the dialog.php page. This occurs because ajax_calls.php was also able to set the $_SESSION['RF'][&amp;quot;view_type&amp;quot;] variable, but there it wasn't sanitized.</description>
-    <dc:date>2020-03-30T22:15:15Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11111">
-    <title>CVE-2020-11111 (jackson-databind)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11111</link>
-    <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to org.apache.activemq.* (aka activemq-jms, activemq-core, activemq-pool, and activemq-pool-jms).</description>
-    <dc:date>2020-03-31T05:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11112">
-    <title>CVE-2020-11112 (jackson-databind)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11112</link>
-    <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to org.apache.commons.proxy.provider.remoting.RmiProvider (aka apache/commons-proxy).</description>
-    <dc:date>2020-03-31T05:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11113">
-    <title>CVE-2020-11113 (jackson-databind)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11113</link>
-    <description>FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to org.apache.openjpa.ee.WASRegistryManagedRuntime (aka openjpa).</description>
-    <dc:date>2020-03-31T05:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11414">
-    <title>CVE-2020-11414 (ui_for_silverlight)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11414</link>
-    <description>An issue was discovered in Progress Telerik UI for Silverlight before 2020.1.330. The RadUploadHandler class in RadUpload for Silverlight expects a web request that provides the file location of the uploading file along with a few other parameters. The uploading file location should be inside the directory where the upload handler class is defined. Before 2020.1.330, a crafted web request could result in uploads to arbitrary locations.</description>
-    <dc:date>2020-03-31T13:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11441">
-    <title>CVE-2020-11441 (phpmyadmin)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11441</link>
-    <description>** DISPUTED ** phpMyAdmin 5.0.2 allows CRLF injection, as demonstrated by %0D%0Astring%0D%0A inputs to login form fields causing CRLF sequences to be reflected on an error page. NOTE: the vendor states &amp;quot;I don't see anything specifically exploitable.&amp;quot;</description>
-    <dc:date>2020-03-31T17:15:26Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11444">
+    <title>CVE-2020-11444</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11444</link>
+    <description>Sonatype Nexus Repository Manager 3.x up to and including 3.21.2 has Incorrect Access Control.</description>
+    <dc:date>2020-04-02T18:15:18Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11445">
     <title>CVE-2020-11445</title>
@@ -635,31 +690,31 @@
     <dc:date>2020-04-01T15:15:35Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11450">
-    <title>CVE-2020-11450</title>
+    <title>CVE-2020-11450 (microstrategy_web)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-11450</link>
     <description>Microstrategy Web 10.4 exposes the JVM configuration, CPU architecture, installation folder, and other information through the URL /MicroStrategyWS/happyaxis.jsp. An attacker could use this vulnerability to learn more about the environment the application is running in.</description>
     <dc:date>2020-04-02T15:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11451">
-    <title>CVE-2020-11451</title>
+    <title>CVE-2020-11451 (microstrategy_web)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-11451</link>
     <description>The Upload Visualization plugin in the Microstrategy Web 10.4 admin panel allows an administrator to upload a ZIP archive containing files with arbitrary extensions and data. (This is also exploitable via SSRF.)</description>
     <dc:date>2020-04-02T15:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11452">
-    <title>CVE-2020-11452</title>
+    <title>CVE-2020-11452 (microstrategy_web)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-11452</link>
     <description>Microstrategy Web 10.4 includes functionality to allow users to import files or data from external resources such as URLs or databases. By providing an external URL under attacker control, it's possible to send requests to external resources (aka SSRF) or leak files from the local system using the file:// stream wrapper.</description>
     <dc:date>2020-04-02T16:15:14Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11453">
-    <title>CVE-2020-11453</title>
+    <title>CVE-2020-11453 (microstrategy_web)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-11453</link>
     <description>Microstrategy Web 10.4 is vulnerable to Server-Side Request Forgery in the Test Web Service functionality exposed through the path /MicroStrategyWS/. The functionality requires no authentication and, while it is not possible to pass parameters in the SSRF request, it is still possible to exploit it to conduct port scanning. An attacker could exploit this vulnerability to enumerate the resources allocated in the network (IP addresses and services exposed).</description>
     <dc:date>2020-04-02T16:15:14Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11454">
-    <title>CVE-2020-11454</title>
+    <title>CVE-2020-11454 (microstrategy_web)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-11454</link>
     <description>Microstrategy Web 10.4 is vulnerable to Stored XSS in the HTML Container and Insert Text features in the window, allowing for the creation of a new dashboard. In order to exploit this vulnerability, a user needs to get access to a shared dashboard or have the ability to create a dashboard on the application.</description>
     <dc:date>2020-04-02T15:15:17Z</dc:date>
@@ -677,133 +732,241 @@
     <dc:date>2020-04-01T16:15:27Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11457">
-    <title>CVE-2020-11457</title>
+    <title>CVE-2020-11457 (pfsense)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-11457</link>
     <description>pfSense before 2.4.5 has stored XSS in system_usermanager_addprivs.php in the WebGUI via the descr parameter (aka full name) of a user.</description>
     <dc:date>2020-04-01T16:15:27Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11458">
-    <title>CVE-2020-11458</title>
+    <title>CVE-2020-11458 (misp)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-11458</link>
     <description>app/Model/feed.php in MISP before 2.4.124 allows administrators to choose arbitrary files that should be ingested by MISP. This does not cause a leak of the full contents of a file, but does cause a leaks of strings that match certain patterns. Among the data that can leak are passwords from database.php or GPG key passphrases from config.php.</description>
     <dc:date>2020-04-02T12:15:15Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11463">
-    <title>CVE-2020-11463</title>
+    <title>CVE-2020-11463 (deskpro)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-11463</link>
     <description>An issue was discovered in Deskpro before 2019.8.0. The /api/email_accounts endpoint failed to properly validate a user's privilege, allowing an attacker to retrieve cleartext credentials of all helpdesk email accounts, including incoming and outgoing email credentials. This enables an attacker to get full access to all emails sent or received by the system including password reset emails, making it possible to reset any user's password.</description>
     <dc:date>2020-04-01T21:15:14Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11464">
-    <title>CVE-2020-11464</title>
+    <title>CVE-2020-11464 (deskpro)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-11464</link>
     <description>An issue was discovered in Deskpro before 2019.8.0. The /api/people endpoint failed to properly validate a user's privilege, allowing an attacker to retrieve sensitive information about all users registered on the system. This includes their full name, privilege, email address, phone number, etc.</description>
     <dc:date>2020-04-01T21:15:14Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11465">
-    <title>CVE-2020-11465</title>
+    <title>CVE-2020-11465 (deskpro)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-11465</link>
     <description>An issue was discovered in Deskpro before 2019.8.0. The /api/apps/* endpoints failed to properly validate a user's privilege, allowing an attacker to control/install helpdesk applications and leak current applications' configurations, including applications used as user sources (used for authentication). This enables an attacker to forge valid authentication models that resembles any user on the system.</description>
     <dc:date>2020-04-01T21:15:14Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11466">
-    <title>CVE-2020-11466</title>
+    <title>CVE-2020-11466 (deskpro)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-11466</link>
     <description>An issue was discovered in Deskpro before 2019.8.0. The /api/tickets endpoint failed to properly validate a user's privilege, allowing an attacker to retrieve arbitrary information about all helpdesk tickets stored in database with numerous filters. This leaked sensitive information to unauthorized parties. Additionally, it leaked ticket authentication code, making it possible to make changes to a ticket.</description>
     <dc:date>2020-04-01T21:15:14Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11467">
-    <title>CVE-2020-11467</title>
+    <title>CVE-2020-11467 (deskpro)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-11467</link>
     <description>An issue was discovered in Deskpro before 2019.8.0. This product enables administrators to modify the helpdesk interface by editing /portal/api/style/edit-theme-set/template-sources theme templates, and uses TWIG as its template engine. While direct access to self and _self variables was not permitted, one could abuse the accessible variables in one's context to reach a native unserialize function via the code parameter. There, on could pass a crafted payload to trigger a set of POP gadgets in order to achieve remote code execution.</description>
     <dc:date>2020-04-01T21:15:14Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11469">
-    <title>CVE-2020-11469</title>
+    <title>CVE-2020-11469 (client)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-11469</link>
     <description>Zoom Client for Meetings through 4.6.8 on macOS copies runwithroot to a user-writable temporary directory during installation, which allows a local process (with the user's privileges) to obtain root access by replacing runwithroot.</description>
     <dc:date>2020-04-01T22:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11470">
-    <title>CVE-2020-11470</title>
+    <title>CVE-2020-11470 (client)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-11470</link>
     <description>Zoom Client for Meetings through 4.6.8 on macOS has the disable-library-validation entitlement, which allows a local process (with the user's privileges) to obtain unprompted microphone and camera access by loading a crafted library and thereby inheriting Zoom Client's microphone and camera access.</description>
     <dc:date>2020-04-01T22:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11490">
-    <title>CVE-2020-11490</title>
+    <title>CVE-2020-11490 (zen_load_balancer)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-11490</link>
     <description>Manage::Certificates in Zen Load Balancer 3.10.1 allows remote authenticated admins to execute arbitrary OS commands via shell metacharacters in the index.cgi cert_issuer, cert_division, cert_organization, cert_locality, cert_state, cert_country, or cert_email parameter.</description>
     <dc:date>2020-04-02T14:15:15Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11491">
-    <title>CVE-2020-11491</title>
+    <title>CVE-2020-11491 (zen_load_balancer)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-11491</link>
     <description>Monitoring::Logs in Zen Load Balancer 3.10.1 allows remote authenticated admins to conduct absolute path traversal attacks, as demonstrated by a filelog=/etc/shadow request to index.cgi.</description>
     <dc:date>2020-04-02T14:15:15Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-1712">
-    <title>CVE-2020-1712</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-1712</link>
-    <description>A heap use-after-free vulnerability was found in systemd before version v245-rc1, where asynchronous Polkit queries are performed while handling dbus messages. A local unprivileged attacker can abuse this flaw to crash systemd services or potentially execute code and elevate their privileges, by sending specially crafted dbus messages.</description>
-    <dc:date>2020-03-31T17:15:26Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11494">
+    <title>CVE-2020-11494 (linux_kernel)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11494</link>
+    <description>An issue was discovered in slc_bump in drivers/net/can/slcan.c in the Linux kernel through 5.6.2. It allows attackers to read uninitialized can_frame data, potentially containing sensitive information from kernel stack memory, if the configuration lacks CONFIG_INIT_STACK_ALL, aka CID-b9258a2cece4.</description>
+    <dc:date>2020-04-02T21:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11498">
+    <title>CVE-2020-11498 (nebula)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11498</link>
+    <description>Slack Nebula through 1.1.0 contains a relative path vulnerability that allows a low-privileged attacker to execute code in the context of the root user via tun_darwin.go or tun_windows.go. A user can also use Nebula to execute arbitrary code in the user's own context, e.g., for user-level persistence or to bypass security controls. NOTE: the vendor states that this &amp;quot;requires a high degree of access and other preconditions that are tough to achieve.&amp;quot;</description>
+    <dc:date>2020-04-02T23:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11499">
+    <title>CVE-2020-11499 (firmware_analysis_and_comparison_tool)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11499</link>
+    <description>Firmware Analysis and Comparison Tool (FACT) 3 has Stored XSS when updating analysis details via a localhost web request, as demonstrated by mishandling of the tags and version fields in helperFunctions/mongo_task_conversion.py.</description>
+    <dc:date>2020-04-02T23:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11500">
+    <title>CVE-2020-11500</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11500</link>
+    <description>Zoom Client for Meetings through 4.6.9 uses the ECB mode of AES for video and audio encryption. Within a meeting, all participants use a single 128-bit key.</description>
+    <dc:date>2020-04-03T13:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11501">
+    <title>CVE-2020-11501 (debian_linux, gnutls)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11501</link>
+    <description>GnuTLS 3.6.x before 3.6.13 uses incorrect cryptography for DTLS. The earliest affected version is 3.6.3 (2018-07-16) because of an error in a 2017-10-06 commit. The DTLS client always uses 32 '\0' bytes instead of a random value, and thus contributes no randomness to a DTLS negotiation. This breaks the security guarantees of the DTLS protocol.</description>
+    <dc:date>2020-04-03T13:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11507">
+    <title>CVE-2020-11507 (adwcleaner)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11507</link>
+    <description>An Untrusted Search Path vulnerability in Malwarebytes AdwCleaner 8.0.3 could cause arbitrary code execution with SYSTEM privileges when a malicious DLL library is loaded.</description>
+    <dc:date>2020-04-06T16:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11518">
+    <title>CVE-2020-11518 (manageengine_adselfservice_plus)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11518</link>
+    <description>Zoho ManageEngine ADSelfService Plus before 5815 allows unauthenticated remote code execution.</description>
+    <dc:date>2020-04-04T14:15:11Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11527">
+    <title>CVE-2020-11527 (manageengine_opmanager)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11527</link>
+    <description>In Zoho ManageEngine OpManager before 12.4.181, an unauthenticated remote attacker can send a specially crafted URI to read arbitrary files.</description>
+    <dc:date>2020-04-04T17:15:14Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11528">
+    <title>CVE-2020-11528 (bit2spr)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11528</link>
+    <description>bit2spr 1992-06-07 has a stack-based buffer overflow (129-byte write) in conv_bitmap in bit2spr.c via a long line in a bitmap file.</description>
+    <dc:date>2020-04-04T17:15:14Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11529">
+    <title>CVE-2020-11529 (grav)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11529</link>
+    <description>Common/Grav.php in Grav before 1.6.23 has an Open Redirect.</description>
+    <dc:date>2020-04-04T19:15:11Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11533">
+    <title>CVE-2020-11533 (workspace_control)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11533</link>
+    <description>Ivanti Workspace Control before 10.4.30.0, when SCCM integration is enabled, allows local users to obtain sensitive information (keying material).</description>
+    <dc:date>2020-04-04T20:15:11Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11542">
+    <title>CVE-2020-11542</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11542</link>
+    <description>3xLOGIC Infinias eIDC32 2.213 devices with Web 1.107 allow Authentication Bypass via CMD.HTM?CMD= because authentication depends on the client side's interpretation of the &amp;lt;KEY&amp;gt;MYKEY&amp;lt;/KEY&amp;gt; substring.</description>
+    <dc:date>2020-04-04T22:15:11Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11544">
+    <title>CVE-2020-11544 (official_car_rental_system)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11544</link>
+    <description>An issue was discovered in Project Worlds Official Car Rental System 1. It allows the admin user to run commands on the server with their account because the upload section on the file-manager page contains an arbitrary file upload vulnerability via add_cars.php. There are no upload restrictions for executable files.</description>
+    <dc:date>2020-04-06T16:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11545">
+    <title>CVE-2020-11545</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11545</link>
+    <description>Project Worlds Official Car Rental System 1 is vulnerable to multiple SQL injection issues, as demonstrated by the email and parameters (account.php), uname and pass parameters (login.php), and id parameter (book_car.php) This allows an attacker to dump the MySQL database and to bypass the login authentication prompt.</description>
+    <dc:date>2020-04-06T16:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11547">
+    <title>CVE-2020-11547</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11547</link>
+    <description>PRTG Network Monitor before 20.1.57.1745 allows remote unauthenticated attackers to obtain information about probes running or the server itself (CPU usage, memory, Windows version, and internal statistics) via an HTTP request, as demonstrated by type=probes to login.htm or index.htm.</description>
+    <dc:date>2020-04-05T00:15:11Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11548">
+    <title>CVE-2020-11548 (search_meter)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11548</link>
+    <description>The Search Meter plugin through 2.13.2 for WordPress allows user input introduced in the search bar to be any formula. The attacker could achieve remote code execution via CSV injection if a wp-admin/index.php?page=search-meter Export is performed.</description>
+    <dc:date>2020-04-05T00:15:11Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11558">
+    <title>CVE-2020-11558 (gpac)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11558</link>
+    <description>An issue was discovered in libgpac.a in GPAC 0.8.0, as demonstrated by MP4Box. audio_sample_entry_Read in isomedia/box_code_base.c does not properly decide when to make gf_isom_box_del calls. This leads to various use-after-free outcomes involving mdia_Read, gf_isom_delete_movie, and gf_isom_parse_movie_boxes.</description>
+    <dc:date>2020-04-05T20:15:12Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11565">
+    <title>CVE-2020-11565 (linux_kernel)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11565</link>
+    <description>An issue was discovered in the Linux kernel through 5.6.2. mpol_parse_str in mm/mempolicy.c has a stack-based out-of-bounds write because an empty nodelist is mishandled during mount option parsing, aka CID-aa9f7d5172fa.</description>
+    <dc:date>2020-04-06T01:15:12Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-1728">
+    <title>CVE-2020-1728</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-1728</link>
+    <description>A vulnerability was found in all versions of Keycloak where, the pages on the Admin Console area of the application are completely missing general HTTP security headers in HTTP-responses. This does not directly lead to a security issue, yet it might aid attackers in their efforts to exploit other problems. The flaws unnecessarily make the servers more prone to Clickjacking, channel downgrade attacks and other similar client-based attack vectors.</description>
+    <dc:date>2020-04-06T14:15:12Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-1927">
-    <title>CVE-2020-1927</title>
+    <title>CVE-2020-1927 (http_server)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-1927</link>
     <description>In Apache HTTP Server 2.4.0 to 2.4.41, redirects configured with mod_rewrite that were intended to be self-referential might be fooled by encoded newlines and redirect instead to an an unexpected URL within the request URL.</description>
     <dc:date>2020-04-02T00:15:13Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-1934">
-    <title>CVE-2020-1934</title>
+    <title>CVE-2020-1934 (http_server)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-1934</link>
     <description>In Apache HTTP Server 2.4.0 to 2.4.41, mod_proxy_ftp may use uninitialized memory when proxying to a malicious FTP server.</description>
     <dc:date>2020-04-01T20:15:15Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-1943">
-    <title>CVE-2020-1943</title>
+    <title>CVE-2020-1943 (ofbiz)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-1943</link>
     <description>Data sent with contentId to /control/stream is not sanitized, allowing XSS attacks in Apache OFBiz 16.11.01 to 16.11.07.</description>
     <dc:date>2020-04-01T19:15:14Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-1949">
-    <title>CVE-2020-1949</title>
+    <title>CVE-2020-1949 (sling_cms)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-1949</link>
     <description>Scripts in Sling CMS before 0.16.0 do not property escape the Sling Selector from URLs when generating navigational elements for the administrative consoles and are vulnerable to reflected XSS attacks.</description>
     <dc:date>2020-04-01T19:15:14Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-1954">
-    <title>CVE-2020-1954</title>
+    <title>CVE-2020-1954 (cxf)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-1954</link>
     <description>Apache CXF has the ability to integrate with JMX by registering an InstrumentationManager extension with the CXF bus. If the &amp;acirc;&amp;euro;&amp;tilde;createMBServerConnectorFactory&amp;acirc;&amp;euro;&amp;trade; property of the default InstrumentationManagerImpl is not disabled, then it is vulnerable to a man-in-the-middle (MITM) style attack. An attacker on the same host can connect to the registry and rebind the entry to another server, thus acting as a proxy to the original. They are then able to gain access to all of the information that is sent and received over JMX.</description>
     <dc:date>2020-04-01T21:15:14Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-1958">
-    <title>CVE-2020-1958</title>
+    <title>CVE-2020-1958 (druid)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-1958</link>
     <description>When LDAP authentication is enabled in Apache Druid 0.17.0, callers of Druid APIs with a valid set of LDAP credentials can bypass the credentialsValidator.userSearch filter barrier that determines if a valid LDAP user is allowed to authenticate with Druid. They are still subject to role-based authorization checks, if configured. Callers of Druid APIs can also retrieve any LDAP attribute values of users that exist on the LDAP server, so long as that information is visible to the Druid server. This information disclosure does not require the caller itself to be a valid LDAP user.</description>
     <dc:date>2020-04-01T22:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3847">
-    <title>CVE-2020-3847</title>
+    <title>CVE-2020-3847 (mac_os_x)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3847</link>
     <description>An out-of-bounds read was addressed with improved input validation. This issue is fixed in macOS Catalina 10.15.3. A remote attacker may be able to leak memory.</description>
     <dc:date>2020-04-01T19:15:14Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3848">
-    <title>CVE-2020-3848</title>
+    <title>CVE-2020-3848 (mac_os_x)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3848</link>
     <description>A memory corruption issue was addressed with improved input validation. This issue is fixed in macOS Catalina 10.15.3. A remote attacker may be able to cause unexpected application termination or arbitrary code execution.</description>
     <dc:date>2020-04-01T19:15:14Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3849">
-    <title>CVE-2020-3849</title>
+    <title>CVE-2020-3849 (mac_os_x)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3849</link>
     <description>A memory corruption issue was addressed with improved input validation. This issue is fixed in macOS Catalina 10.15.3. A remote attacker may be able to cause unexpected application termination or arbitrary code execution.</description>
     <dc:date>2020-04-01T19:15:14Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3850">
-    <title>CVE-2020-3850</title>
+    <title>CVE-2020-3850 (mac_os_x)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3850</link>
     <description>A memory corruption issue was addressed with improved input validation. This issue is fixed in macOS Catalina 10.15.3. A remote attacker may be able to cause unexpected application termination or arbitrary code execution.</description>
     <dc:date>2020-04-01T19:15:14Z</dc:date>
@@ -821,7 +984,7 @@
     <dc:date>2020-04-01T18:15:15Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3884">
-    <title>CVE-2020-3884</title>
+    <title>CVE-2020-3884 (mac_os_x)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3884</link>
     <description>An injection issue was addressed with improved validation. This issue is fixed in macOS Catalina 10.15.4. A remote attacker may be able to cause arbitrary javascript code execution.</description>
     <dc:date>2020-04-01T18:15:15Z</dc:date>
@@ -833,31 +996,31 @@
     <dc:date>2020-04-01T18:15:15Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3887">
-    <title>CVE-2020-3887</title>
+    <title>CVE-2020-3887 (icloud, ipad_os, iphone_os, itunes, safari, tvos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3887</link>
     <description>A logic issue was addressed with improved restrictions. This issue is fixed in iOS 13.4 and iPadOS 13.4, tvOS 13.4, Safari 13.1, iTunes for Windows 12.10.5, iCloud for Windows 10.9.3, iCloud for Windows 7.18. A download's origin may be incorrectly associated.</description>
     <dc:date>2020-04-01T18:15:15Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3888">
-    <title>CVE-2020-3888</title>
+    <title>CVE-2020-3888 (ipad_os, iphone_os)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3888</link>
     <description>A logic issue was addressed with improved restrictions. This issue is fixed in iOS 13.4 and iPadOS 13.4. A maliciously crafted page may interfere with other web contexts.</description>
     <dc:date>2020-04-01T18:15:15Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3889">
-    <title>CVE-2020-3889</title>
+    <title>CVE-2020-3889 (mac_os_x)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3889</link>
     <description>A logic issue was addressed with improved state management. This issue is fixed in macOS Catalina 10.15.4. A local user may be able to read arbitrary files.</description>
     <dc:date>2020-04-01T18:15:16Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3890">
-    <title>CVE-2020-3890</title>
+    <title>CVE-2020-3890 (ipad_os, iphone_os)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3890</link>
     <description>The issue was addressed with improved deletion. This issue is fixed in iOS 13.4 and iPadOS 13.4. Deleted messages groups may still be suggested as an autocompletion.</description>
     <dc:date>2020-04-01T18:15:16Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3891">
-    <title>CVE-2020-3891</title>
+    <title>CVE-2020-3891 (ipad_os, iphone_os, watchos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3891</link>
     <description>A logic issue was addressed with improved state management. This issue is fixed in iOS 13.4 and iPadOS 13.4, watchOS 6.2. A person with physical access to a locked iOS device may be able to respond to messages even when replies are disabled.</description>
     <dc:date>2020-04-01T18:15:16Z</dc:date>
@@ -875,43 +1038,43 @@
     <dc:date>2020-04-01T18:15:16Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3894">
-    <title>CVE-2020-3894</title>
+    <title>CVE-2020-3894 (icloud, ipad_os, iphone_os, itunes, safari, tvos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3894</link>
     <description>A race condition was addressed with additional validation. This issue is fixed in iOS 13.4 and iPadOS 13.4, tvOS 13.4, Safari 13.1, iTunes for Windows 12.10.5, iCloud for Windows 10.9.3, iCloud for Windows 7.18. An application may be able to read restricted memory.</description>
     <dc:date>2020-04-01T18:15:16Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3895">
-    <title>CVE-2020-3895</title>
+    <title>CVE-2020-3895 (icloud, ipad_os, iphone_os, itunes, safari, tvos, watchos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3895</link>
     <description>A memory corruption issue was addressed with improved memory handling. This issue is fixed in iOS 13.4 and iPadOS 13.4, tvOS 13.4, watchOS 6.2, Safari 13.1, iTunes for Windows 12.10.5, iCloud for Windows 10.9.3, iCloud for Windows 7.18. Processing maliciously crafted web content may lead to arbitrary code execution.</description>
     <dc:date>2020-04-01T18:15:16Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3897">
-    <title>CVE-2020-3897</title>
+    <title>CVE-2020-3897 (icloud, ipad_os, iphone_os, itunes, safari, tvos, watchos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3897</link>
     <description>A type confusion issue was addressed with improved memory handling. This issue is fixed in iOS 13.4 and iPadOS 13.4, tvOS 13.4, watchOS 6.2, Safari 13.1, iTunes for Windows 12.10.5, iCloud for Windows 10.9.3, iCloud for Windows 7.18. A remote attacker may be able to cause arbitrary code execution.</description>
     <dc:date>2020-04-01T18:15:16Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3899">
-    <title>CVE-2020-3899</title>
+    <title>CVE-2020-3899 (icloud, ipad_os, iphone_os, itunes, safari, tvos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3899</link>
     <description>A memory consumption issue was addressed with improved memory handling. This issue is fixed in iOS 13.4 and iPadOS 13.4, tvOS 13.4, Safari 13.1, iTunes for Windows 12.10.5, iCloud for Windows 10.9.3, iCloud for Windows 7.18. A remote attacker may be able to cause arbitrary code execution.</description>
     <dc:date>2020-04-01T18:15:16Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3900">
-    <title>CVE-2020-3900</title>
+    <title>CVE-2020-3900 (icloud, ipad_os, iphone_os, itunes, safari, tvos, watchos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3900</link>
     <description>A memory corruption issue was addressed with improved memory handling. This issue is fixed in iOS 13.4 and iPadOS 13.4, tvOS 13.4, watchOS 6.2, Safari 13.1, iTunes for Windows 12.10.5, iCloud for Windows 10.9.3, iCloud for Windows 7.18. Processing maliciously crafted web content may lead to arbitrary code execution.</description>
     <dc:date>2020-04-01T18:15:16Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3901">
-    <title>CVE-2020-3901</title>
+    <title>CVE-2020-3901 (icloud, ipad_os, iphone_os, itunes, safari, tvos, watchos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3901</link>
     <description>A type confusion issue was addressed with improved memory handling. This issue is fixed in iOS 13.4 and iPadOS 13.4, tvOS 13.4, watchOS 6.2, Safari 13.1, iTunes for Windows 12.10.5, iCloud for Windows 10.9.3, iCloud for Windows 7.18. Processing maliciously crafted web content may lead to arbitrary code execution.</description>
     <dc:date>2020-04-01T18:15:16Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3902">
-    <title>CVE-2020-3902</title>
+    <title>CVE-2020-3902 (icloud, ipad_os, iphone_os, itunes, safari, tvos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3902</link>
     <description>An input validation issue was addressed with improved input validation. This issue is fixed in iOS 13.4 and iPadOS 13.4, tvOS 13.4, Safari 13.1, iTunes for Windows 12.10.5, iCloud for Windows 10.9.3, iCloud for Windows 7.18. Processing maliciously crafted web content may lead to a cross site scripting attack.</description>
     <dc:date>2020-04-01T18:15:16Z</dc:date>
@@ -947,202 +1110,118 @@
     <dc:date>2020-04-01T18:15:16Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3908">
-    <title>CVE-2020-3908</title>
+    <title>CVE-2020-3908 (mac_os_x)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3908</link>
     <description>An out-of-bounds read was addressed with improved input validation. This issue is fixed in macOS Catalina 10.15.4. A local user may be able to cause unexpected system termination or read kernel memory.</description>
     <dc:date>2020-04-01T18:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3909">
-    <title>CVE-2020-3909</title>
+    <title>CVE-2020-3909 (icloud, ipados, iphone_os, itunes, mac_os_x, tvos, watchos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3909</link>
     <description>A buffer overflow was addressed with improved bounds checking. This issue is fixed in iOS 13.4 and iPadOS 13.4, macOS Catalina 10.15.4, tvOS 13.4, watchOS 6.2, iTunes for Windows 12.10.5, iCloud for Windows 10.9.3, iCloud for Windows 7.18. Multiple issues in libxml2.</description>
     <dc:date>2020-04-01T18:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3910">
-    <title>CVE-2020-3910</title>
+    <title>CVE-2020-3910 (icloud, ipados, iphone_os, itunes, mac_os_x, tvos, watchos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3910</link>
     <description>A buffer overflow was addressed with improved size validation. This issue is fixed in iOS 13.4 and iPadOS 13.4, macOS Catalina 10.15.4, tvOS 13.4, watchOS 6.2, iTunes for Windows 12.10.5, iCloud for Windows 10.9.3, iCloud for Windows 7.18. Multiple issues in libxml2.</description>
     <dc:date>2020-04-01T18:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3911">
-    <title>CVE-2020-3911</title>
+    <title>CVE-2020-3911 (icloud, ipados, iphone_os, itunes, mac_os_x, tvos, watchos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3911</link>
     <description>A buffer overflow was addressed with improved bounds checking. This issue is fixed in iOS 13.4 and iPadOS 13.4, macOS Catalina 10.15.4, tvOS 13.4, watchOS 6.2, iTunes for Windows 12.10.5, iCloud for Windows 10.9.3, iCloud for Windows 7.18. Multiple issues in libxml2.</description>
     <dc:date>2020-04-01T18:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3912">
-    <title>CVE-2020-3912</title>
+    <title>CVE-2020-3912 (mac_os_x)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3912</link>
     <description>An out-of-bounds read was addressed with improved input validation. This issue is fixed in macOS Catalina 10.15.4. A local user may be able to cause unexpected system termination or read kernel memory.</description>
     <dc:date>2020-04-01T18:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3913">
-    <title>CVE-2020-3913</title>
+    <title>CVE-2020-3913 (ipados, iphone_os, mac_os_x, watchos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3913</link>
     <description>A permissions issue existed. This issue was addressed with improved permission validation. This issue is fixed in iOS 13.4 and iPadOS 13.4, macOS Catalina 10.15.4, watchOS 6.2. A malicious application may be able to elevate privileges.</description>
     <dc:date>2020-04-01T18:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3914">
-    <title>CVE-2020-3914</title>
+    <title>CVE-2020-3914 (ipados, iphone_os, mac_os_x, tvos, watchos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3914</link>
     <description>A memory initialization issue was addressed with improved memory handling. This issue is fixed in iOS 13.4 and iPadOS 13.4, macOS Catalina 10.15.4, tvOS 13.4, watchOS 6.2. An application may be able to read restricted memory.</description>
     <dc:date>2020-04-01T18:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3916">
-    <title>CVE-2020-3916</title>
+    <title>CVE-2020-3916 (ipados, iphone_os, watchos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3916</link>
     <description>An access issue was addressed with additional sandbox restrictions. This issue is fixed in iOS 13.4 and iPadOS 13.4, watchOS 6.2. Setting an alternate app icon may disclose a photo without needing permission to access photos.</description>
     <dc:date>2020-04-01T18:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3917">
-    <title>CVE-2020-3917</title>
+    <title>CVE-2020-3917 (ipados, iphone_os, tvos, watchos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3917</link>
     <description>This issue was addressed with a new entitlement. This issue is fixed in iOS 13.4 and iPadOS 13.4, tvOS 13.4, watchOS 6.2. An application may be able to use an SSH client provided by private frameworks.</description>
     <dc:date>2020-04-01T18:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-3919">
-    <title>CVE-2020-3919</title>
+    <title>CVE-2020-3919 (ipados, iphone_os, mac_os_x, tvos, watchos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-3919</link>
     <description>A memory initialization issue was addressed with improved memory handling. This issue is fixed in iOS 13.4 and iPadOS 13.4, macOS Catalina 10.15.4, tvOS 13.4, watchOS 6.2. A malicious application may be able to execute arbitrary code with kernel privileges.</description>
     <dc:date>2020-04-01T18:15:17Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-4206">
-    <title>CVE-2020-4206 (spectrum_protect_plus)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-4206</link>
-    <description>IBM Spectrum Protect Plus 10.1.0 through 10.1.5 could allow a remote attacker to execute arbitrary commands on the system in the context of root user, caused by improper validation of user-supplied input. IBM X-Force ID: 174966.</description>
-    <dc:date>2020-03-31T15:15:16Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-4208">
-    <title>CVE-2020-4208 (spectrum_protect_plus)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-4208</link>
-    <description>IBM Spectrum Protect Plus 10.1.0 through 10.1.5 contains hard-coded credentials, such as a password or cryptographic key, which it uses for its own inbound authentication, outbound communication to external components, or encryption of internal data. IBM X-Force ID: 174975.</description>
-    <dc:date>2020-03-31T15:15:17Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-4214">
-    <title>CVE-2020-4214 (spectrum_protect_plus)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-4214</link>
-    <description>IBM Spectrum Protect Plus 10.1.0 through 10.1.5 could allow a remote attacker to arbitrary delete a directory caused by improper validation of user-supplied input. IBM X-Force ID: 175026.</description>
-    <dc:date>2020-03-31T15:15:17Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-4235">
-    <title>CVE-2020-4235 (tivoli_netcool/impact)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-4235</link>
-    <description>IBM Tivoli Netcool Impact 7.1.0.0 through 7.1.0.17 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 175408.</description>
-    <dc:date>2020-03-31T15:15:18Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-4236">
-    <title>CVE-2020-4236 (tivoli_netcool/impact)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-4236</link>
-    <description>IBM Tivoli Netcool Impact 7.1.0.0 through 7.1.0.17 could allow an authenticated user to cause a denial of service due to improper content parsing in the project management module. IBM X-Force ID: 175409.</description>
-    <dc:date>2020-03-31T15:15:19Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-4237">
-    <title>CVE-2020-4237 (tivoli_netcool/impact)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-4237</link>
-    <description>IBM Tivoli Netcool Impact 7.1.0.0 through 7.1.0.17 is vulnerable to cross-site request forgery which could allow an attacker to execute malicious and unauthorized actions transmitted from a user that the website trusts. IBM X-Force ID: 175410.</description>
-    <dc:date>2020-03-31T15:15:19Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-4238">
-    <title>CVE-2020-4238 (tivoli_netcool/impact)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-4238</link>
-    <description>IBM Tivoli Netcool Impact 7.1.0.0 through 7.1.0.17 is vulnerable to cross-site request forgery which could allow an attacker to execute malicious and unauthorized actions transmitted from a user that the website trusts. IBM X-Force ID: 175411.</description>
-    <dc:date>2020-03-31T15:15:20Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-4239">
-    <title>CVE-2020-4239 (tivoli_netcool/impact)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-4239</link>
-    <description>IBM Tivoli Netcool Impact 7.1.0.0 through 7.1.0.17 could allow a remote attacker to obtain sensitive information when a detailed technical error message is returned in the browser. This information could be used in further attacks against the system. IBM X-Force ID: 175412.</description>
-    <dc:date>2020-03-31T15:15:20Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-4240">
-    <title>CVE-2020-4240 (spectrum_protect_plus)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-4240</link>
-    <description>IBM Spectrum Protect Plus 10.1.0 through 10.1.5 could allow a remote attacker to traverse directories on the system. An attacker could send a specially-crafted URL request to overwrite or create arbitrary files on the system. IBM X-Force ID: 175417.</description>
-    <dc:date>2020-03-31T15:15:20Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-4241">
-    <title>CVE-2020-4241 (spectrum_protect_plus, spectrum_scale)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-4241</link>
-    <description>IBM Spectrum Scale and IBM Spectrum Protect Plus 10.1.0 through 10.1.5 could allow a remote authenticated attacker to execute arbitrary commands on the system. By sending a specially crafted request, an attacker could exploit this vulnerability to execute arbitrary commands on the system. IBM X-Force ID: 175418.</description>
-    <dc:date>2020-03-31T15:15:21Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-4242">
-    <title>CVE-2020-4242 (spectrum_protect_plus, spectrum_scale)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-4242</link>
-    <description>IBM Spectrum Scale and IBM Spectrum Protect Plus 10.1.0 through 10.1.5 could allow a remote authenticated attacker to execute arbitrary commands on the system. By sending a specially crafted request, an attacker could exploit this vulnerability to execute arbitrary commands on the system. IBM X-Force ID: 175419.</description>
-    <dc:date>2020-03-31T15:15:21Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-4273">
+    <title>CVE-2020-4273 (spectrum_scale)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-4273</link>
+    <description>IBM Spectrum Scale 4.2 and 5.0 could allow a local unprivileged attacker with intimate knowledge of the enviornment to execute commands as root using specially crafted input. IBM X-Force ID: 175977.</description>
+    <dc:date>2020-04-03T13:15:13Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-4303">
-    <title>CVE-2020-4303</title>
+    <title>CVE-2020-4303 (websphere_application_server)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-4303</link>
     <description>IBM WebSphere Application Server - Liberty 17.0.0.3 through 20.0.0.3 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 176668.</description>
     <dc:date>2020-04-02T15:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-4304">
-    <title>CVE-2020-4304</title>
+    <title>CVE-2020-4304 (websphere_application_server)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-4304</link>
     <description>IBM WebSphere Application Server - Liberty 17.0.0.3 through 20.0.0.3 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 176670.</description>
     <dc:date>2020-04-02T15:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-4325">
-    <title>CVE-2020-4325</title>
+    <title>CVE-2020-4325 (cloud_pak_for_automation, process_federation_server)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-4325</link>
     <description>The IBM Process Federation Server 18.0.0.1, 18.0.0.2, 19.0.0.1, 19.0.0.2, and 19.0.0.3 Global Teams REST API does not properly shutdown the thread pools that it creates to retrieve Global Teams information from the federated systems. As a consequence, the Java Virtual Machine can't recover the memory used by those thread pools, which leads to an OutOfMemory exception when the Process Federation Server Global Teams REST API is used extensively. IBM X-Force ID: 177596.</description>
     <dc:date>2020-04-02T15:15:17Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5255">
-    <title>CVE-2020-5255 (symfony)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-5255</link>
-    <description>In Symfony before versions 4.4.7 and 5.0.7, when a `Response` does not contain a `Content-Type` header, affected versions of Symfony can fallback to the format defined in the `Accept` header of the request, leading to a possible mismatch between the response&amp;amp;#39;s content and `Content-Type` header. When the response is cached, this can prevent the use of the website by other users. This has been patched in versions 4.4.7 and 5.0.7.</description>
-    <dc:date>2020-03-30T20:15:19Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5274">
-    <title>CVE-2020-5274 (symfony)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-5274</link>
-    <description>In Symfony before versions 5.0.5 and 4.4.5, some properties of the Exception were not properly escaped when the `ErrorHandler` rendered it stacktrace. In addition, the stacktrace were displayed even in a non-debug configuration. The ErrorHandler now escape alls properties of the exception, and the stacktrace is only display in debug configuration. This issue is patched in symfony/http-foundation versions 4.4.5 and 5.0.5</description>
-    <dc:date>2020-03-30T20:15:19Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5275">
-    <title>CVE-2020-5275 (symfony)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-5275</link>
-    <description>In symfony/security-http before versions 4.4.7 and 5.0.7, when a `Firewall` checks access control rule, it iterate overs each rule's attributes and stops as soon as the accessDecisionManager decides to grant access on the attribute, preventing the check of next attributes that should have been take into account in an unanimous strategy. The accessDecisionManager is now called with all attributes at once, allowing the unanimous strategy being applied on each attribute. This issue is patched in versions 4.4.7 and 5.0.7.</description>
-    <dc:date>2020-03-30T20:15:19Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5284">
-    <title>CVE-2020-5284 (next.js)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-5284</link>
-    <description>Next.js versions before 9.3.2 have a directory traversal vulnerability. Attackers could craft special requests to access files in the dist directory (.next). This does not affect files outside of the dist directory (.next). In general, the dist directory only holds build assets unless your application intentionally stores other assets under this directory. This issue is fixed in version 9.3.2.</description>
-    <dc:date>2020-03-30T22:15:15Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5289">
-    <title>CVE-2020-5289 (elide)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-5289</link>
-    <description>In Elide before 4.5.14, it is possible for an adversary to &amp;quot;guess and check&amp;quot; the value of a model field they do not have access to assuming they can read at least one other field in the model. The adversary can construct filter expressions for an inaccessible field to filter a collection. The presence or absence of models in the returned collection can be used to reconstruct the value of the inaccessible field. Resolved in Elide 4.5.14 and greater.</description>
-    <dc:date>2020-03-30T22:15:15Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5283">
+    <title>CVE-2020-5283 (viewvc)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-5283</link>
+    <description>ViewVC before versions 1.1.28 and 1.2.1 has a XSS vulnerability in CVS show_subdir_lastmod support. The impact of this vulnerability is mitigated by the need for an attacker to have commit privileges to a CVS repository exposed by an otherwise trusted ViewVC instance that also has the `show_subdir_lastmod` feature enabled. The attack vector involves files with unsafe names (names that, when embedded into an HTML stream, would cause the browser to run unwanted code), which themselves can be challenging to create. This vulnerability is patched in versions 1.2.1 and 1.1.28.</description>
+    <dc:date>2020-04-03T00:15:11Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5290">
-    <title>CVE-2020-5290</title>
+    <title>CVE-2020-5290 (rctf)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-5290</link>
     <description>In RedpwnCTF before version 2.3, there is a session fixation vulnerability in exploitable through the `#token=$ssid` hash when making a request to the `/verify` endpoint. An attacker team could potentially steal flags by, for example, exploiting a stored XSS payload in a CTF challenge so that victim teams who solve the challenge are unknowingly (and against their will) signed into the attacker team&amp;amp;#39;s account. Then, the attacker can gain points / value off the backs of the victims. This is patched in version 2.3.</description>
     <dc:date>2020-04-01T20:15:15Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5291">
-    <title>CVE-2020-5291 (arch_linux, bubblewrap, centos, debian_linux)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-5291</link>
-    <description>Bubblewrap (bwrap) before version 0.4.1, if installed in setuid mode and the kernel supports unprivileged user namespaces, then the `bwrap --userns2` option can be used to make the setuid process keep running as root while being traceable. This can in turn be used to gain root permissions. Note that this only affects the combination of bubblewrap in setuid mode (which is typically used when unprivileged user namespaces are not supported) and the support of unprivileged user namespaces. Known to be affected are: * Debian testing/unstable, if unprivileged user namespaces enabled (not default) * Debian buster-backports, if unprivileged user namespaces enabled (not default) * Arch if using `linux-hardened`, if unprivileged user namespaces enabled (not default) * Centos 7 flatpak COPR, if unprivileged user namespaces enabled (not default) This has been fixed in the 0.4.1 release, and all affected users should update.</description>
-    <dc:date>2020-03-31T18:15:26Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5300">
+    <title>CVE-2020-5300</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-5300</link>
+    <description>In Hydra (an OAuth2 Server and OpenID Certified&amp;acirc;&amp;bdquo;&amp;cent; OpenID Connect Provider written in Go), before version 1.4.0+oryOS.17, when using client authentication method 'private_key_jwt' [1], OpenId specification says the following about assertion `jti`: &amp;quot;A unique identifier for the token, which can be used to prevent reuse of the token. These tokens MUST only be used once, unless conditions for reuse were negotiated between the parties&amp;quot;. Hydra does not check the uniqueness of this `jti` value. Exploiting this vulnerability is somewhat difficult because: - TLS protects against MITM which makes it difficult to intercept valid tokens for replay attacks - The expiry time of the JWT gives only a short window of opportunity where it could be replayed This has been patched in version v1.4.0+oryOS.17</description>
+    <dc:date>2020-04-06T17:15:13Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5292">
-    <title>CVE-2020-5292 (leantime)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-5292</link>
-    <description>Leantime before versions 2.0.15 and 2.1-beta3 has a SQL Injection vulnerability. The impact is high. Malicious users/attackers can execute arbitrary SQL queries negatively affecting the confidentiality, integrity, and availability of the site. Attackers can exfiltrate data like the users' and administrators' password hashes, modify data, or drop tables. The unescaped parameter is &amp;quot;searchUsers&amp;quot; when sending a POST request to &amp;quot;/tickets/showKanban&amp;quot; with a valid session. In the code, the parameter is named &amp;quot;users&amp;quot; in class.tickets.php. This issue is fixed in versions 2.0.15 and 2.1.0 beta 3.</description>
-    <dc:date>2020-03-31T19:15:14Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5347">
+    <title>CVE-2020-5347 (emc_isilon_onefs)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-5347</link>
+    <description>Dell EMC Isilon OneFS versions 8.2.2 and earlier contain a denial of service vulnerability. SmartConnect had an error condition that may be triggered to loop, using CPU and potentially preventing other SmartConnect DNS responses.</description>
+    <dc:date>2020-04-04T00:15:23Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5344">
-    <title>CVE-2020-5344</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-5344</link>
-    <description>Dell EMC iDRAC7, iDRAC8 and iDRAC9 versions prior to 2.65.65.65, 2.70.70.70, 4.00.00.00 contain a stack-based buffer overflow vulnerability. An unauthenticated remote attacker may exploit this vulnerability to crash the affected process or execute arbitrary code on the system by sending specially crafted input data.</description>
-    <dc:date>2020-03-31T22:15:14Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5348">
+    <title>CVE-2020-5348 (latitude_7202_firmware)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-5348</link>
+    <description>Dell Latitude 7202 Rugged Tablet BIOS versions prior to A28 contain a UAF vulnerability in EFI_BOOT_SERVICES in system management mode. A local unauthenticated attacker may exploit this vulnerability by overwriting the EFI_BOOT_SERVICES structure to execute arbitrary code in system management mode.</description>
+    <dc:date>2020-04-04T00:15:23Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5391">
     <title>CVE-2020-5391 (wp-auth0)</title>
@@ -1156,62 +1235,20 @@
     <description>A stored cross-site scripting (XSS) vulnerability exists in the Auth0 plugin before 4.0.0 for WordPress via the settings page.</description>
     <dc:date>2020-04-01T13:15:15Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5527">
-    <title>CVE-2020-5527</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-5527</link>
-    <description>When MELSOFT transmission port (UDP/IP) of Mitsubishi Electric MELSEC iQ-R series (all versions), MELSEC iQ-F series (all versions), MELSEC Q series (all versions), MELSEC L series (all versions), and MELSEC F series (all versions) receives massive amount of data via unspecified vectors, resource consumption occurs and the port does not process the data properly. As a result, it may fall into a denial-of-service (DoS) condition. The vendor states this vulnerability only affects Ethernet communication functions.</description>
-    <dc:date>2020-03-30T08:15:17Z</dc:date>
-  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5548">
     <title>CVE-2020-5548 (fwx120_firmware, nvr500_firmware, nvr510_firmware, nvr700w_firmware, rtx1200_firmware, rtx1210_firmware, rtx3500_firmware, rtx5000_firmware, rtx810_firmware, rtx830_firmware)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-5548</link>
     <description>Yamaha LTE VoIP Router(NVR700W firmware Rev.15.00.15 and earlier), Yamaha Gigabit VoIP Router(NVR510 firmware Rev.15.01.14 and earlier), Yamaha Gigabit VPN Router(RTX810 firmware Rev.11.01.33 and earlier, RTX830 firmware Rev.15.02.09 and earlier, RTX1200 firmware Rev.10.01.76 and earlier, RTX1210 firmware Rev.14.01.33 and earlier, RTX3500 firmware Rev.14.00.26 and earlier, and RTX5000 firmware Rev.14.00.26 and earlier), Yamaha Broadband VoIP Router(NVR500 firmware Rev.11.00.38 and earlier), and Yamaha Firewall(FWX120 firmware Rev.11.03.27 and earlier) allow remote attackers to cause a denial of service via unspecified vectors.</description>
     <dc:date>2020-04-01T12:15:15Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5551">
-    <title>CVE-2020-5551</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-5551</link>
-    <description>Toyota 2017 Model Year DCU (Display Control Unit) allows an unauthenticated attacker within Bluetooth range to cause a denial of service attack and/or execute an arbitrary command. The affected DCUs are installed in Lexus (LC, LS, NX, RC, RC F), TOYOTA CAMRY, and TOYOTA SIENNA manufactured in the regions other than Japan from Oct. 2016 to Oct. 2019. An attacker with certain knowledge on the target vehicle control system may be able to send some diagnostic commands to ECUs with some limited availability impacts; the vendor states critical vehicle controls such as driving, turning, and stopping are not affected.</description>
-    <dc:date>2020-03-30T05:15:27Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5723">
-    <title>CVE-2020-5723 (ucm6202_firmware, ucm6204_firmware, ucm6208_firmware)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-5723</link>
-    <description>The UCM6200 series 1.0.20.22 and below stores unencrypted user passwords in an SQLite database. This could allow an attacker to retrieve all passwords and possibly gain elevated privileges.</description>
-    <dc:date>2020-03-30T20:15:19Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5724">
-    <title>CVE-2020-5724 (ucm6202_firmware, ucm6204_firmware, ucm6208_firmware)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-5724</link>
-    <description>The Grandstream UCM6200 series before 1.0.20.22 is vulnerable to an SQL injection via the HTTP server's websockify endpoint. A remote unauthenticated attacker can invoke the challenge action with a crafted username and discover user passwords.</description>
-    <dc:date>2020-03-30T20:15:20Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5725">
-    <title>CVE-2020-5725 (ucm6202_firmware, ucm6204_firmware, ucm6208_firmware)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-5725</link>
-    <description>The Grandstream UCM6200 series before 1.0.20.22 is vulnerable to an SQL injection via the HTTP server's websockify endpoint. A remote unauthenticated attacker can invoke the login action with a crafted username and, through the use of timing attacks, can discover user passwords.</description>
-    <dc:date>2020-03-30T20:15:20Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5726">
-    <title>CVE-2020-5726 (ucm6202_firmware, ucm6204_firmware, ucm6208_firmware)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-5726</link>
-    <description>The Grandstream UCM6200 series before 1.0.20.22 is vulnerable to an SQL injection via the CTI server on port 8888. A remote unauthenticated attacker can invoke the challenge action with a crafted username and discover user passwords.</description>
-    <dc:date>2020-03-30T20:15:20Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-6008">
-    <title>CVE-2020-6008 (lifterlms)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-6008</link>
-    <description>LifterLMS Wordpress plugin version below 3.37.15 is vulnerable to arbitrary file write leading to remote code execution</description>
-    <dc:date>2020-03-31T15:15:22Z</dc:date>
-  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-6009">
-    <title>CVE-2020-6009</title>
+    <title>CVE-2020-6009 (learndash)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-6009</link>
     <description>LearnDash Wordpress plugin version below 3.1.6 is vulnerable to Unauthenticated SQL Injection.</description>
     <dc:date>2020-04-01T22:15:18Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-6096">
-    <title>CVE-2020-6096</title>
+    <title>CVE-2020-6096 (glibc)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-6096</link>
     <description>An exploitable signed comparison vulnerability exists in the ARMv7 memcpy() implementation of GNU glibc 2.30.9000. Calling memcpy() (on ARMv7 targets that utilize the GNU glibc implementation) with a negative value for the 'num' parameter results in a signed comparison vulnerability. If an attacker underflows the 'num' parameter to memcpy(), this vulnerability could lead to undefined behavior such as writing to out-of-bounds memory and potentially remote code execution. Furthermore, this memcpy() implementation allows for program execution to continue in scenarios where a segmentation fault or crash should have occurred. The dangers occur in that subsequent execution and iterations of this code will be executed with this corrupted data.</description>
     <dc:date>2020-04-01T22:15:18Z</dc:date>
@@ -1223,16 +1260,34 @@
     <dc:date>2020-04-01T13:15:15Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-6852">
-    <title>CVE-2020-6852</title>
+    <title>CVE-2020-6852 (tv-288zd-2mp_firmware)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-6852</link>
     <description>CACAGOO Cloud Storage Intelligent Camera TV-288ZD-2MP with firmware 3.4.2.0919 has weak authentication of TELNET access, leading to root privileges without any password required.</description>
     <dc:date>2020-04-02T15:15:17Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7009">
-    <title>CVE-2020-7009 (elasticsearch)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7009</link>
-    <description>Elasticsearch versions from 6.7.0 before 6.8.8 and 7.0.0 before 7.6.2 contain a privilege escalation flaw if an attacker is able to create API keys. An attacker who is able to generate an API key can perform a series of steps that result in an API key being generated with elevated privileges.</description>
-    <dc:date>2020-03-31T19:15:14Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-6994">
+    <title>CVE-2020-6994 (hios, hisecos)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-6994</link>
+    <description>A buffer overflow vulnerability was found in some devices of Hirschmann Automation and Control HiOS and HiSecOS. The vulnerability is due to improper parsing of URL arguments. An attacker could exploit this vulnerability by specially crafting HTTP requests to overflow an internal buffer. The following devices using HiOS Version 07.0.02 and lower are affected: RSP, RSPE, RSPS, RSPL, MSP, EES, EES, EESX, GRS, OS, RED. The following devices using HiSecOS Version 03.2.00 and lower are affected: EAGLE20/30.</description>
+    <dc:date>2020-04-03T19:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7000">
+    <title>CVE-2020-7000 (vbase_editor, vbase_web-remote)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7000</link>
+    <description>VISAM VBASE Editor version 11.5.0.2 and VBASE Web-Remote Module may allow an unauthenticated attacker to discover the cryptographic key from the web server and gain information about the login and the encryption/decryption mechanism, which may be exploited to bypass authentication of the HTML5 HMI web interface.</description>
+    <dc:date>2020-04-03T18:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7004">
+    <title>CVE-2020-7004 (vbase_editor, vbase_web-remote)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7004</link>
+    <description>VISAM VBASE Editor version 11.5.0.2 and VBASE Web-Remote Module may allow weak or insecure permissions on the VBASE directory resulting in elevation of privileges or malicious effects on the system the next time a privileged user runs the application.</description>
+    <dc:date>2020-04-03T18:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7008">
+    <title>CVE-2020-7008 (vbase_editor, vbase_web-remote)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7008</link>
+    <description>VISAM VBASE Editor version 11.5.0.2 and VBASE Web-Remote Module may allow input passed in the URL that is not properly verified before use, which may allow an attacker to read arbitrary files from local resources.</description>
+    <dc:date>2020-04-03T18:15:13Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7064">
     <title>CVE-2020-7064 (php)</title>
@@ -1258,23 +1313,137 @@
     <description>Improper access control vulnerability in ESConfigTool.exe in ENS for Windows all current versions allows a local administrator to alter the ENS configuration up to and including disabling all protection offered by ENS via insecurely implemented encryption of configuration for export and import.</description>
     <dc:date>2020-04-01T07:15:13Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7599">
-    <title>CVE-2020-7599 (plugin_publishing)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7599</link>
-    <description>All versions of com.gradle.plugin-publish before 0.11.0 are vulnerable to Insertion of Sensitive Information into Log File. When a plugin author publishes a Gradle plugin while running Gradle with the --info log level flag, the Gradle Logger logs an AWS pre-signed URL. If this build log is publicly visible (as it is in many popular public CI systems like TravisCI) this AWS pre-signed URL would allow a malicious actor to replace a recently uploaded plugin with their own.</description>
-    <dc:date>2020-03-30T19:15:17Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7617">
+    <title>CVE-2020-7617</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7617</link>
+    <description>ini-parser through 0.0.2 is vulnerable to Prototype Pollution.The library could be tricked into adding or modifying properties of Object.prototype using a '__proto__' payload.</description>
+    <dc:date>2020-04-02T18:15:18Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7610">
-    <title>CVE-2020-7610 (bson)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7610</link>
-    <description>All versions of bson before 1.1.4 are vulnerable to Deserialization of Untrusted Data. The package will ignore an unknown value for an object's _bsotype, leading to cases where an object is serialized as a document rather than the intended BSON type.</description>
-    <dc:date>2020-03-30T19:15:17Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7619">
+    <title>CVE-2020-7619 (get-git-data)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7619</link>
+    <description>get-git-data through 1.3.1 is vulnerable to Command Injection. It is possible to inject arbitrary commands as part of the arguments provided to get-git-data.</description>
+    <dc:date>2020-04-02T21:15:13Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7611">
-    <title>CVE-2020-7611 (micronaut)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7611</link>
-    <description>All versions of io.micronaut:micronaut-http-client before 1.2.11 and all versions from 1.3.0 before 1.3.2 are vulnerable to HTTP Request Header Injection due to not validating request headers passed to the client.</description>
-    <dc:date>2020-03-30T22:15:15Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7620">
+    <title>CVE-2020-7620 (pomelo-monitor)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7620</link>
+    <description>pomelo-monitor through 0.3.7 is vulnerable to Command Injection.It allows injection of arbitrary commands as part of 'pomelo-monitor' params.</description>
+    <dc:date>2020-04-02T21:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7621">
+    <title>CVE-2020-7621 (strongloop_nginx_controller)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7621</link>
+    <description>strong-nginx-controller through 1.0.2 is vulnerable to Command Injection. It allows execution of arbitrary command as part of the '_nginxCmd()' function.</description>
+    <dc:date>2020-04-02T21:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7622">
+    <title>CVE-2020-7622</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7622</link>
+    <description>All versions before 2.2.1 are vulnerable to HTTP Response Splitting. The DefaultHttpHeaders is set to false which means it does not validates that the header isn't being abused for HTTP Response Splitting.</description>
+    <dc:date>2020-04-06T15:15:12Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7623">
+    <title>CVE-2020-7623 (jscover)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7623</link>
+    <description>jscover through 1.0.0 is vulnerable to Command Injection. It allows execution of arbitrary command via the source argument.</description>
+    <dc:date>2020-04-02T21:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7624">
+    <title>CVE-2020-7624 (effect)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7624</link>
+    <description>effect through 1.0.4 is vulnerable to Command Injection. It allows execution of arbitrary command via the options argument.</description>
+    <dc:date>2020-04-02T22:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7625">
+    <title>CVE-2020-7625 (op-browser)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7625</link>
+    <description>op-browser through 1.0.6 is vulnerable to Command Injection. It allows execution of arbitrary commands via the url function.</description>
+    <dc:date>2020-04-02T22:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7626">
+    <title>CVE-2020-7626 (karma-mojo)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7626</link>
+    <description>karma-mojo through 1.0.1 is vulnerable to Command Injection. It allows execution of arbitrary commands via the config argument.</description>
+    <dc:date>2020-04-02T22:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7627">
+    <title>CVE-2020-7627 (node-key-sender)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7627</link>
+    <description>node-key-sender through 1.0.11 is vulnerable to Command Injection. It allows execution of arbitrary commands via the 'arrParams' argument in the 'execute()' function.</description>
+    <dc:date>2020-04-02T22:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7628">
+    <title>CVE-2020-7628 (install-package)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7628</link>
+    <description>install-package through 1.1.6 is vulnerable to Command Injection. It allows execution of arbitrary commands via the device function.</description>
+    <dc:date>2020-04-02T22:15:14Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7629">
+    <title>CVE-2020-7629 (install-package)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7629</link>
+    <description>install-package through 0.4.0 is vulnerable to Command Injection. It allows execution of arbitrary commands via the options argument.</description>
+    <dc:date>2020-04-02T22:15:14Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7630">
+    <title>CVE-2020-7630 (git-add-remote)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7630</link>
+    <description>git-add-remote through 1.0.0 is vulnerable to Command Injection. It allows execution of arbitrary commands via the name argument.</description>
+    <dc:date>2020-04-02T22:15:14Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7631">
+    <title>CVE-2020-7631 (diskusage-ng)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7631</link>
+    <description>diskusage-ng through 0.2.4 is vulnerable to Command Injection.It allows execution of arbitrary commands via the path argument.</description>
+    <dc:date>2020-04-06T13:15:12Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7632">
+    <title>CVE-2020-7632 (node-mpv)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7632</link>
+    <description>node-mpv through 1.4.3 is vulnerable to Command Injection. It allows execution of arbitrary commands via the options argument.</description>
+    <dc:date>2020-04-06T13:15:12Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7633">
+    <title>CVE-2020-7633 (apiconnect-cli-plugins)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7633</link>
+    <description>apiconnect-cli-plugins through 6.0.1 is vulnerable to Command Injection.It allows execution of arbitrary commands via the pluginUri argument.</description>
+    <dc:date>2020-04-06T13:15:12Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7634">
+    <title>CVE-2020-7634 (heroku-addonpool)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7634</link>
+    <description>heroku-addonpool through 0.1.15 is vulnerable to Command Injection.</description>
+    <dc:date>2020-04-06T13:15:12Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7635">
+    <title>CVE-2020-7635 (compass-compile)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7635</link>
+    <description>compass-compile through 0.0.1 is vulnerable to Command Injection.It allows execution of arbitrary commands via tha options argument.</description>
+    <dc:date>2020-04-06T13:15:12Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7636">
+    <title>CVE-2020-7636 (adb-driver)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7636</link>
+    <description>adb-driver through 0.1.8 is vulnerable to Command Injection.It allows execution of arbitrary commands via the command function.</description>
+    <dc:date>2020-04-06T13:15:12Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7637">
+    <title>CVE-2020-7637 (class-transformer)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7637</link>
+    <description>class-transformer through 0.2.3 is vulnerable to Prototype Pollution. The 'classToPlainFromExist' function could be tricked into adding or modifying properties of 'Object.prototype' using a '__proto__' payload.</description>
+    <dc:date>2020-04-06T13:15:12Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7638">
+    <title>CVE-2020-7638 (confinit)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7638</link>
+    <description>confinit through 0.3.0 is vulnerable to Prototype Pollution.The 'setDeepProperty' function could be tricked into adding or modifying properties of 'Object.prototype' using a '__proto__' payload.</description>
+    <dc:date>2020-04-06T13:15:12Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7639">
+    <title>CVE-2020-7639 (dot)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-7639</link>
+    <description>eivindfjeldstad-dot below 1.0.3 is vulnerable to Prototype Pollution.The function 'set' could be tricked into adding or modifying properties of 'Object.prototype' using a '__proto__' payload.</description>
+    <dc:date>2020-04-06T13:15:12Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7947">
     <title>CVE-2020-7947 (login_by_auth0)</title>
@@ -1288,140 +1457,188 @@
     <description>An issue was discovered in the Login by Auth0 plugin before 4.0.0 for WordPress. A user can perform an insecure direct object reference.</description>
     <dc:date>2020-04-01T13:15:15Z</dc:date>
   </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-8004">
+    <title>CVE-2020-8004</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-8004</link>
+    <description>STMicroelectronics STM32F1 devices have Incorrect Access Control.</description>
+    <dc:date>2020-04-06T13:15:13Z</dc:date>
+  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-8015">
-    <title>CVE-2020-8015</title>
+    <title>CVE-2020-8015 (exim)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-8015</link>
     <description>A UNIX Symbolic Link (Symlink) Following vulnerability in the packaging of exim in openSUSE Factory allows local attackers to escalate from user mail to root. This issue affects: openSUSE Factory exim versions prior to 4.93.0.4-3.1.</description>
     <dc:date>2020-04-02T08:15:21Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-8016">
-    <title>CVE-2020-8016</title>
+    <title>CVE-2020-8016 (texlive-filesystem)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-8016</link>
     <description>A Race Condition Enabling Link Following vulnerability in the packaging of texlive-filesystem of SUSE Linux Enterprise Module for Desktop Applications 15-SP1, SUSE Linux Enterprise Software Development Kit 12-SP4, SUSE Linux Enterprise Software Development Kit 12-SP5; openSUSE Leap 15.1 allows local users to corrupt files or potentially escalate privileges. This issue affects: SUSE Linux Enterprise Module for Desktop Applications 15-SP1 texlive-filesystem versions prior to 2017.135-9.5.1. SUSE Linux Enterprise Software Development Kit 12-SP4 texlive-filesystem versions prior to 2013.74-16.5.1. SUSE Linux Enterprise Software Development Kit 12-SP5 texlive-filesystem versions prior to 2013.74-16.5.1. openSUSE Leap 15.1 texlive-filesystem versions prior to 2017.135-lp151.8.3.1.</description>
     <dc:date>2020-04-02T14:15:15Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-8017">
-    <title>CVE-2020-8017</title>
+    <title>CVE-2020-8017 (texlive-filesystem)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-8017</link>
     <description>A Race Condition Enabling Link Following vulnerability in the cron job shipped with texlive-filesystem of SUSE Linux Enterprise Module for Desktop Applications 15-SP1, SUSE Linux Enterprise Software Development Kit 12-SP4, SUSE Linux Enterprise Software Development Kit 12-SP5; openSUSE Leap 15.1 allows local users in group mktex to delete arbitrary files on the system This issue affects: SUSE Linux Enterprise Module for Desktop Applications 15-SP1 texlive-filesystem versions prior to 2017.135-9.5.1. SUSE Linux Enterprise Software Development Kit 12-SP4 texlive-filesystem versions prior to 2013.74-16.5.1. SUSE Linux Enterprise Software Development Kit 12-SP5 texlive-filesystem versions prior to 2013.74-16.5.1. openSUSE Leap 15.1 texlive-filesystem versions prior to 2017.135-lp151.8.3.1.</description>
     <dc:date>2020-04-02T14:15:15Z</dc:date>
   </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-8142">
+    <title>CVE-2020-8142</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-8142</link>
+    <description>A security restriction bypass vulnerability has been discovered in Revive Adserver version &amp;lt; 5.0.5 by HackerOne user hoangn144. Revive Adserver, like many other applications, requires the logged in user to type the current password in order to change the e-mail address or the password. It was however possible for anyone with access to a Revive Adserver admin user interface to bypass such check and change e-email address or password of the currently logged in user by altering the form payload.The attack requires physical access to the user interface of a logged in user. If the POST payload was altered by turning the &amp;acirc;&amp;euro;&amp;oelig;pwold&amp;acirc;&amp;euro;&amp;#65533; parameter into an array, Revive Adserver would fetch and authorise the operation even if no password was provided.</description>
+    <dc:date>2020-04-03T21:15:12Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-8143">
+    <title>CVE-2020-8143 (revive_adserver)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-8143</link>
+    <description>An Open Redirect vulnerability was discovered in Revive Adserver version &amp;lt; 5.0.5 and reported by HackerOne user hoangn144. A remote attacker could trick logged-in users to open a specifically crafted link and have them redirected to any destination.The CSRF protection of the &amp;acirc;&amp;euro;&amp;oelig;/www/admin/*-modify.php&amp;acirc;&amp;euro;&amp;#65533; could be skipped if no meaningful parameter was sent. No action was performed, but the user was still redirected to the target page, specified via the &amp;acirc;&amp;euro;&amp;oelig;returnurl&amp;acirc;&amp;euro;&amp;#65533; GET parameter.</description>
+    <dc:date>2020-04-03T21:15:12Z</dc:date>
+  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-8144">
-    <title>CVE-2020-8144</title>
+    <title>CVE-2020-8144 (unifi_video)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-8144</link>
     <description>The UniFi Video Server v3.9.3 and prior (for Windows 7/8/10 x64) web interface Firmware Update functionality, under certain circumstances, does not validate firmware download destinations to ensure they are within the intended destination directory tree. It accepts a request with a URL to firmware update information. If the version field contains ..\ character sequences, the destination file path to save the firmware can be manipulated to be outside the intended destination directory tree. Fixed in UniFi Video Controller v3.10.3 and newer.</description>
     <dc:date>2020-04-01T23:15:13Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-8145">
-    <title>CVE-2020-8145</title>
+    <title>CVE-2020-8145 (unifi_video)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-8145</link>
     <description>The UniFi Video Server (Windows) web interface configuration restore functionality at the &amp;acirc;&amp;euro;&amp;oelig;backup&amp;acirc;&amp;euro;&amp;#65533; and &amp;acirc;&amp;euro;&amp;oelig;wizard&amp;acirc;&amp;euro;&amp;#65533; endpoints does not implement sufficient privilege checks. Low privileged users, belonging to the PUBLIC_GROUP or CUSTOM_GROUP groups, can access these endpoints and overwrite the current application configuration. This can be abused for various purposes, including adding new administrative users. Affected Products: UniFi Video Controller v3.9.3 (for Windows 7/8/10 x64) and prior. Fixed in UniFi Video Controller v3.9.6 and newer.</description>
     <dc:date>2020-04-01T23:15:13Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-8146">
-    <title>CVE-2020-8146</title>
+    <title>CVE-2020-8146 (unifi_video)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-8146</link>
     <description>In UniFi Video v3.10.1 (for Windows 7/8/10 x64) there is a Local Privileges Escalation to SYSTEM from arbitrary file deletion and DLL hijack vulnerabilities. The issue was fixed by adjusting the .tsExport folder when the controller is running on Windows and adjusting the SafeDllSearchMode in the windows registry when installing UniFi-Video controller. Affected Products: UniFi Video Controller v3.10.2 (for Windows 7/8/10 x64) and prior. Fixed in UniFi Video Controller v3.10.3 and newer.</description>
     <dc:date>2020-04-01T23:15:13Z</dc:date>
   </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-8147">
+    <title>CVE-2020-8147 (utils-extend)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-8147</link>
+    <description>Flaw in input validation in npm package utils-extend version 1.0.8 and earlier may allow prototype pollution attack that may result in remote code execution or denial of service of applications using utils-extend.</description>
+    <dc:date>2020-04-03T21:15:12Z</dc:date>
+  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-8423">
-    <title>CVE-2020-8423</title>
+    <title>CVE-2020-8423 (tl-wr841n_firmware)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-8423</link>
     <description>A buffer overflow in the httpd daemon on TP-Link TL-WR841N V10 (firmware version 3.16.9) devices allows an authenticated remote attacker to execute arbitrary code via a GET request to the page for the configuration of the Wi-Fi network.</description>
     <dc:date>2020-04-02T17:15:14Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-8509">
-    <title>CVE-2020-8509 (manageengine_desktop_central)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-8509</link>
-    <description>Zoho ManageEngine Desktop Central allows unauthenticated users to access PDFGenerationServlet, leading to sensitive information disclosure.</description>
-    <dc:date>2020-03-30T18:15:12Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-8637">
+    <title>CVE-2020-8637 (testlink)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-8637</link>
+    <description>A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in dragdroptreenodes.php via the node_id parameter.</description>
+    <dc:date>2020-04-03T19:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-8638">
+    <title>CVE-2020-8638 (testlink)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-8638</link>
+    <description>A SQL injection vulnerability in TestLink 1.9.20 allows attackers to execute arbitrary SQL commands in planUrgency.php via the urgency parameter.</description>
+    <dc:date>2020-04-03T19:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-8639">
+    <title>CVE-2020-8639 (testlink)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-8639</link>
+    <description>An unrestricted file upload vulnerability in keywordsImport.php in TestLink 1.9.20 allows remote attackers to execute arbitrary code by uploading a file with an executable extension. This allows an authenticated attacker to upload a malicious file (containing PHP code to execute operating system commands) to a publicly accessible directory of the application.</description>
+    <dc:date>2020-04-03T19:15:13Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-8835">
+    <title>CVE-2020-8835 (fedora, linux_kernel, ubuntu_linux)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-8835</link>
+    <description>In the Linux kernel 5.5.0 and newer, the bpf verifier (kernel/bpf/verifier.c) did not properly restrict the register bounds for 32-bit operations, leading to out-of-bounds reads and writes in kernel memory. The vulnerability also affects the Linux 5.4 stable series, starting with v5.4.7, as the introducing commit was backported to that branch. This vulnerability was fixed in 5.6.1, 5.5.14, and 5.4.29. (issue is aka ZDI-CAN-10780)</description>
+    <dc:date>2020-04-02T18:15:18Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-8966">
-    <title>CVE-2020-8966</title>
+    <title>CVE-2020-8966 (tikiwiki_cms/groupware)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-8966</link>
     <description>There is an Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in php webpages of Tiki-Wiki Groupware. Tiki-Wiki CMS all versions through 20.0 allows malicious users to cause the injection of malicious code fragments (scripts) into a legitimate web page.</description>
     <dc:date>2020-04-01T21:15:15Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-9055">
-    <title>CVE-2020-9055 (lynx_customer_service_portal)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-9055</link>
-    <description>Versiant LYNX Customer Service Portal (CSP), version 3.5.2, is vulnerable to stored cross-site scripting, which could allow a local, authenticated attacker to insert malicious JavaScript that is stored and displayed to the end user. This could lead to website redirects, session cookie hijacking, or information disclosure.</description>
-    <dc:date>2020-03-30T22:15:15Z</dc:date>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-9067">
+    <title>CVE-2020-9067 (smartax_ea5800_firmware, smartax_ma5600t_firmware, smartax_ma5800_firmware)</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-9067</link>
+    <description>There is a buffer overflow vulnerability in some Huawei products. The vulnerability can be exploited by an attacker to perform remote code execution on the affected products when the affected product functions as an optical line terminal (OLT). Affected product versions include:SmartAX MA5600T versions V800R013C10, V800R015C00, V800R015C10, V800R017C00, V800R017C10, V800R018C00, V800R018C10; SmartAX MA5800 versions V100R017C00, V100R017C10, V100R018C00, V100R018C10, V100R019C10; SmartAX EA5800 versions V100R018C00, V100R018C10, V100R019C10.</description>
+    <dc:date>2020-04-02T21:15:13Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-9349">
-    <title>CVE-2020-9349</title>
+    <title>CVE-2020-9349 (tv-288zd-2mp_firmware)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-9349</link>
     <description>The CACAGOO Cloud Storage Intelligent Camera TV-288ZD-2MP with firmware 3.4.2.0919 allows access to the RTSP service without a password.</description>
     <dc:date>2020-04-02T15:15:18Z</dc:date>
   </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-9473">
+    <title>CVE-2020-9473</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-9473</link>
+    <description>** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Notes: none.</description>
+    <dc:date>2020-04-06T15:15:12Z</dc:date>
+  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-9768">
-    <title>CVE-2020-9768</title>
+    <title>CVE-2020-9768 (ipados, iphone_os, tvos, watchos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-9768</link>
     <description>A use after free issue was addressed with improved memory management. This issue is fixed in iOS 13.4 and iPadOS 13.4, tvOS 13.4, watchOS 6.2. An application may be able to execute arbitrary code with system privileges.</description>
     <dc:date>2020-04-01T18:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-9769">
-    <title>CVE-2020-9769</title>
+    <title>CVE-2020-9769 (mac_os_x)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-9769</link>
     <description>Multiple issues were addressed by updating to version 8.1.1850. This issue is fixed in macOS Catalina 10.15.4. Multiple issues in Vim.</description>
     <dc:date>2020-04-01T18:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-9770">
-    <title>CVE-2020-9770</title>
+    <title>CVE-2020-9770 (ipados, iphone_os)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-9770</link>
     <description>A logic issue was addressed with improved state management. This issue is fixed in iOS 13.4 and iPadOS 13.4. An attacker in a privileged network position may be able to intercept Bluetooth traffic.</description>
     <dc:date>2020-04-01T18:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-9773">
-    <title>CVE-2020-9773</title>
+    <title>CVE-2020-9773 (ipados, iphone_os, mac_os_x, tvos, watchos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-9773</link>
     <description>The issue was addressed with improved handling of icon caches. This issue is fixed in iOS 13.4 and iPadOS 13.4, macOS Catalina 10.15.4, tvOS 13.4, watchOS 6.2. A malicious application may be able to identify what other applications a user has installed.</description>
     <dc:date>2020-04-01T18:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-9775">
-    <title>CVE-2020-9775</title>
+    <title>CVE-2020-9775 (ipados, iphone_os)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-9775</link>
     <description>An issue existed in the handling of tabs displaying picture in picture video. The issue was corrected with improved state handling. This issue is fixed in iOS 13.4 and iPadOS 13.4. A user's private browsing activity may be unexpectedly saved in Screen Time.</description>
     <dc:date>2020-04-01T18:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-9776">
-    <title>CVE-2020-9776</title>
+    <title>CVE-2020-9776 (mac_os_x)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-9776</link>
     <description>This issue was addressed with a new entitlement. This issue is fixed in macOS Catalina 10.15.4. A malicious application may be able to access a user's call history.</description>
     <dc:date>2020-04-01T18:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-9777">
-    <title>CVE-2020-9777</title>
+    <title>CVE-2020-9777 (ipados, iphone_os)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-9777</link>
     <description>An issue existed in the selection of video file by Mail. The issue was fixed by selecting the latest version of a video. This issue is fixed in iOS 13.4 and iPadOS 13.4. Cropped videos may not be shared properly via Mail.</description>
     <dc:date>2020-04-01T18:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-9780">
-    <title>CVE-2020-9780</title>
+    <title>CVE-2020-9780 (ipados, iphone_os)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-9780</link>
     <description>The issue was resolved by clearing application previews when content is deleted. This issue is fixed in iOS 13.4 and iPadOS 13.4. A local user may be able to view deleted content in the app switcher.</description>
     <dc:date>2020-04-01T18:15:17Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-9781">
-    <title>CVE-2020-9781</title>
+    <title>CVE-2020-9781 (ipados, iphone_os)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-9781</link>
     <description>The issue was addressed by clearing website permission prompts after navigation. This issue is fixed in iOS 13.4 and iPadOS 13.4. A user may grant website permissions to a site they didn't intend to.</description>
     <dc:date>2020-04-01T18:15:18Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-9783">
-    <title>CVE-2020-9783</title>
+    <title>CVE-2020-9783 (icloud, ipados, iphone_os, itunes, safari, tvos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-9783</link>
     <description>A use after free issue was addressed with improved memory management. This issue is fixed in iOS 13.4 and iPadOS 13.4, tvOS 13.4, Safari 13.1, iTunes for Windows 12.10.5, iCloud for Windows 10.9.3, iCloud for Windows 7.18. Processing maliciously crafted web content may lead to code execution.</description>
     <dc:date>2020-04-01T18:15:18Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-9784">
-    <title>CVE-2020-9784</title>
+    <title>CVE-2020-9784 (safari)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-9784</link>
     <description>A logic issue was addressed with improved restrictions. This issue is fixed in Safari 13.1. A malicious iframe may use another website&amp;acirc;&amp;euro;&amp;trade;s download settings.</description>
     <dc:date>2020-04-01T18:15:18Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-9785">
-    <title>CVE-2020-9785</title>
+    <title>CVE-2020-9785 (ipados, iphone_os, mac_os_x, tvos, watchos)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-9785</link>
     <description>Multiple memory corruption issues were addressed with improved state management. This issue is fixed in iOS 13.4 and iPadOS 13.4, macOS Catalina 10.15.4, tvOS 13.4, watchOS 6.2. A malicious application may be able to execute arbitrary code with kernel privileges.</description>
     <dc:date>2020-04-01T18:15:18Z</dc:date>
