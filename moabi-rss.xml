@@ -158,7 +158,6 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-17657" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-18375" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-18376" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-19699" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-20636" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-20637" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-4391" />
@@ -172,10 +171,6 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2019-7305" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10262" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10263" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10264" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10265" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10266" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10267" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10366" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10551" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10603" />
@@ -197,8 +192,6 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-10981" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11000" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11002" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11102" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11507" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11508" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11509" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11512" />
@@ -206,8 +199,6 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11515" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11516" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11543" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11544" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11545" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11553" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11554" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11555" />
@@ -216,24 +207,6 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11560" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11561" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11576" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11580" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11581" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11582" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11585" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11586" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11587" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11588" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11589" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11590" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11591" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11592" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11593" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11594" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11595" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11596" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11597" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11598" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11599" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11600" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11601" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11602" />
@@ -263,6 +236,15 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11668" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11669" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11694" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11701" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11702" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11703" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11704" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11705" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11706" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11707" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11708" />
+        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-11709" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-1613" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-1614" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-1615" />
@@ -286,7 +268,6 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-1637" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-1638" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-1639" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-1728" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-1801" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-1802" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-1885" />
@@ -317,7 +298,6 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-4291" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-4362" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5263" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5300" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5302" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5303" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5330" />
@@ -327,7 +307,6 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5734" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5735" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5736" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-5832" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-6171" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-6647" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-6765" />
@@ -337,18 +316,7 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7615" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7616" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7618" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7622" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7631" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7632" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7633" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7634" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7635" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7636" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7637" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7638" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7639" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-7922" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8004" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8096" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8826" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8827" />
@@ -358,13 +326,12 @@
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-8961" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-9056" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-9286" />
-        <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-9473" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-9499" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-9500" />
         <rdf:li rdf:resource="https://cve.moabi.com/cve/?id=CVE-2020-9514" />
       </rdf:Seq>
     </items>
-    <dc:date>2020-04-11T22:00:00Z</dc:date>
+    <dc:date>2020-04-12T16:00:00Z</dc:date>
     <dc:language>en-us</dc:language>
     <dc:rights>This material is not copywritten and may be freely used, however, attribution is requested.</dc:rights>
   </channel>
@@ -1280,12 +1247,6 @@
     <description>A CSRF token disclosure vulnerability allows a remote attacker, with access to an authenticated Management Center (MC) user's web browser history or a network device that intercepts/logs traffic to MC, to obtain CSRF tokens and use them to perform CSRF attacks against MC.</description>
     <dc:date>2020-04-10T00:15:11Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-19699">
-    <title>CVE-2019-19699 (centreon)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2019-19699</link>
-    <description>There is Authenticated remote code execution in Centreon Infrastructure Monitoring Software through 19.10 via Pollers misconfiguration, leading to system compromise via apache crontab misconfiguration, This allows the apache user to modify an executable file executed by root at 22:30 every day. To exploit the vulnerability, someone must have Admin access to the Centreon Web Interface and create a custom main.php?p=60803&amp;amp;type=3 command. The user must then set the Pollers Post-Restart Command to this previously created command via the main.php?p=60901&amp;amp;o=c&amp;amp;server_id=1 URI. This is triggered via an export of the Poller Configuration.</description>
-    <dc:date>2020-04-06T16:15:13Z</dc:date>
-  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2019-20636">
     <title>CVE-2019-20636 (linux_kernel)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2019-20636</link>
@@ -1363,30 +1324,6 @@
     <link>https://cve.moabi.com/cve/?id=CVE-2020-10263</link>
     <description>An issue was discovered on XIAOMI XIAOAI speaker Pro LX06 1.52.4. Attackers can get root shell by accessing the UART interface and then they can (i) read Wi-Fi SSID or password, (ii) read the dialogue text files between users and XIAOMI XIAOAI speaker Pro LX06, (iii) use Text-To-Speech tools pretend XIAOMI speakers' voice achieve social engineering attacks, (iv) eavesdrop on users and record what XIAOMI XIAOAI speaker Pro LX06 hears, (v) modify system files, (vi) use commands to send any IR code through IR emitter on XIAOMI XIAOAI Speaker Pro LX06, (vii) stop voice assistant service, (viii) enable the XIAOMI XIAOAI Speaker Pro&amp;acirc;&amp;euro;&amp;trade; SSH or TELNET service as a backdoor, (IX) tamper with the router configuration of the router in the local area networks.</description>
     <dc:date>2020-04-08T18:15:15Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10264">
-    <title>CVE-2020-10264 (ur_software)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-10264</link>
-    <description>CB3 SW Version 3.3 and upwards, e-series SW Version 5.0 and upwards allow authenticated access to the RTDE (Real-Time Data Exchange) interface on port 30004 which allows setting registers, the speed slider fraction as well as digital and analog Outputs. Additionally unautheticated reading of robot data is also possible</description>
-    <dc:date>2020-04-06T12:15:12Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10265">
-    <title>CVE-2020-10265 (ur_software)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-10265</link>
-    <description>Universal Robots Robot Controllers Version CB2 SW Version 1.4 upwards, CB3 SW Version 3.0 and upwards, e-series SW Version 5.0 and upwards expose a service called DashBoard server at port 29999 that allows for control over core robot functions like starting/stopping programs, shutdown, reset safety and more. The DashBoard server is not protected by any kind of authentication or authorization.</description>
-    <dc:date>2020-04-06T12:15:12Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10266">
-    <title>CVE-2020-10266 (ur+)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-10266</link>
-    <description>UR+ (Universal Robots+) is a platform of hardware and software component sellers, for Universal Robots robots. When installing any of these components in the robots (e.g. in the UR10), no integrity checks are performed. Moreover, the SDK for making such components can be easily obtained from Universal Robots. An attacker could exploit this flaw by crafting a custom component with the SDK, performing Person-In-The-Middle attacks (PITM) and shipping the maliciously-crafted component on demand.</description>
-    <dc:date>2020-04-06T12:15:12Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10267">
-    <title>CVE-2020-10267 (ur_software)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-10267</link>
-    <description>Universal Robots control box CB 3.1 across firmware versions (tested on 1.12.1, 1.12, 1.11 and 1.10) does not encrypt or protect in any way the intellectual property artifacts installed from the UR+ platform of hardware and software components (URCaps). These files (*.urcaps) are stored under '/root/.urcaps' as plain zip files containing all the logic to add functionality to the UR3, UR5 and UR10 robots. This flaw allows attackers with access to the robot or the robot network (while in combination with other flaws) to retrieve and easily exfiltrate all installed intellectual property.</description>
-    <dc:date>2020-04-06T12:15:13Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-10366">
     <title>CVE-2020-10366 (logicaldoc)</title>
@@ -1514,18 +1451,6 @@
     <description>dropwizard-validation before versions 2.0.3 and 1.3.21 has a remote code execution vulnerability. A server-side template injection was identified in the self-validating feature enabling attackers to inject arbitrary Java EL expressions, leading to Remote Code Execution (RCE) vulnerability. If you are using a self-validating bean an upgrade to Dropwizard 1.3.21/2.0.3 or later is strongly recommended. The changes introduced in Dropwizard 1.3.19 and 2.0.2 for CVE-2020-5245 unfortunately did not fix the underlying issue completely. The issue has been fixed in dropwizard-validation 1.3.21 and 2.0.3 or later. We strongly recommend upgrading to one of these versions.</description>
     <dc:date>2020-04-10T19:15:13Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11102">
-    <title>CVE-2020-11102 (qemu)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11102</link>
-    <description>hw/net/tulip.c in QEMU 4.2.0 has a buffer overflow during the copying of tx/rx buffers because the frame size is not validated against the r/w data length.</description>
-    <dc:date>2020-04-06T16:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11507">
-    <title>CVE-2020-11507 (adwcleaner)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11507</link>
-    <description>An Untrusted Search Path vulnerability in Malwarebytes AdwCleaner 8.0.3 could cause arbitrary code execution with SYSTEM privileges when a malicious DLL library is loaded.</description>
-    <dc:date>2020-04-06T16:15:13Z</dc:date>
-  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11508">
     <title>CVE-2020-11508 (wp_lead_plus_x)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-11508</link>
@@ -1567,18 +1492,6 @@
     <link>https://cve.moabi.com/cve/?id=CVE-2020-11543</link>
     <description>OpsRamp Gateway 3.0.0 has a backdoor account vadmin with the password 9vt@f3Vt that allows root SSH access to the server.</description>
     <dc:date>2020-04-08T00:15:11Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11544">
-    <title>CVE-2020-11544 (official_car_rental_system)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11544</link>
-    <description>An issue was discovered in Project Worlds Official Car Rental System 1. It allows the admin user to run commands on the server with their account because the upload section on the file-manager page contains an arbitrary file upload vulnerability via add_cars.php. There are no upload restrictions for executable files.</description>
-    <dc:date>2020-04-06T16:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11545">
-    <title>CVE-2020-11545 (official_car_rental_system)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11545</link>
-    <description>Project Worlds Official Car Rental System 1 is vulnerable to multiple SQL injection issues, as demonstrated by the email and parameters (account.php), uname and pass parameters (login.php), and id parameter (book_car.php) This allows an attacker to dump the MySQL database and to bypass the login authentication prompt.</description>
-    <dc:date>2020-04-06T16:15:13Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11553">
     <title>CVE-2020-11553 (snmpc_online)</title>
@@ -1627,114 +1540,6 @@
     <link>https://cve.moabi.com/cve/?id=CVE-2020-11576</link>
     <description>Fixed in v1.5.1, Argo version v1.5.0 was vulnerable to a user-enumeration vulnerability which allowed attackers to determine the usernames of valid (non-SSO) accounts within Argo.</description>
     <dc:date>2020-04-08T18:15:15Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11580">
-    <title>CVE-2020-11580 (pulse_connect_secure)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11580</link>
-    <description>An issue was discovered in Pulse Secure Pulse Connect Secure (PCS) through 2020-04-06. The applet in tncc.jar, executed on macOS, Linux, and Solaris clients when a Host Checker policy is enforced, accepts an arbitrary SSL certificate.</description>
-    <dc:date>2020-04-06T21:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11581">
-    <title>CVE-2020-11581 (pulse_connect_secure)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11581</link>
-    <description>An issue was discovered in Pulse Secure Pulse Connect Secure (PCS) through 2020-04-06. The applet in tncc.jar, executed on macOS, Linux, and Solaris clients when a Host Checker policy is enforced, allows a man-in-the-middle attacker to perform OS command injection attacks (against a client) via shell metacharacters to the doCustomRemediateInstructions method, because Runtime.getRuntime().exec() is used.</description>
-    <dc:date>2020-04-06T21:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11582">
-    <title>CVE-2020-11582 (pulse_connect_secure)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11582</link>
-    <description>An issue was discovered in Pulse Secure Pulse Connect Secure (PCS) through 2020-04-06. The applet in tncc.jar, executed on macOS, Linux, and Solaris clients when a Host Checker policy is enforced, launches a TCP server that accepts local connections on a random port. This can be reached by local HTTP clients, because up to 25 invalid lines are ignored, and because DNS rebinding can occur. (This server accepts, for example, a setcookie command that might be relevant to CVE-2020-11581 exploitation.)</description>
-    <dc:date>2020-04-06T21:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11585">
-    <title>CVE-2020-11585 (dotnetnuke)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11585</link>
-    <description>There is an information disclosure issue in DNN (formerly DotNetNuke) 9.5 within the built-in Activity-Feed/Messaging/Userid/ Message Center module. A registered user is able to enumerate any file in the Admin File Manager (other than ones contained in a secure folder) by sending themselves a message with the file attached, e.g., by using an arbitrary small integer value in the fileIds parameter.</description>
-    <dc:date>2020-04-06T21:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11586">
-    <title>CVE-2020-11586 (cipace)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11586</link>
-    <description>An XXE issue was discovered in CIPPlanner CIPAce 9.1 Build 2019092801. An unauthenticated attacker can make an API request that contains malicious XML DTD data.</description>
-    <dc:date>2020-04-06T23:15:12Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11587">
-    <title>CVE-2020-11587 (cipace)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11587</link>
-    <description>An issue was discovered in CIPPlanner CIPAce 9.1 Build 2019092801. An unauthenticated attacker can make an API request and get the content of ETL Processes running on the server.</description>
-    <dc:date>2020-04-06T23:15:12Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11588">
-    <title>CVE-2020-11588 (cipace)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11588</link>
-    <description>An issue was discovered in CIPPlanner CIPAce 9.1 Build 2019092801. An unauthenticated attacker can make an HTTP GET request to two files that contain customer data and application paths.</description>
-    <dc:date>2020-04-06T22:15:12Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11589">
-    <title>CVE-2020-11589 (cipace)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11589</link>
-    <description>An Insecure Direct Object Reference issue was discovered in CIPPlanner CIPAce 9.1 Build 2019092801. An unauthenticated attacker can make a GET request to a certain URL and obtain information that should be provided to authenticated users only.</description>
-    <dc:date>2020-04-06T22:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11590">
-    <title>CVE-2020-11590 (cipace)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11590</link>
-    <description>An issue was discovered in CIPPlanner CIPAce 9.1 Build 2019092801. An unauthenticated attacker can make an HTTP GET request to HealthPage.aspx and obtain the internal server name.</description>
-    <dc:date>2020-04-06T22:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11591">
-    <title>CVE-2020-11591 (cipace)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11591</link>
-    <description>An issue was discovered in CIPPlanner CIPAce 9.1 Build 2019092801. An unauthenticated attacker can make an API request and obtain the full application path along with the customer name.</description>
-    <dc:date>2020-04-06T22:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11592">
-    <title>CVE-2020-11592 (cipace)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11592</link>
-    <description>An issue was discovered in CIPPlanner CIPAce 9.1 Build 2019092801. An unauthenticated attacker can make an API request and get the columns of a specific table within the CIP database.</description>
-    <dc:date>2020-04-06T22:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11593">
-    <title>CVE-2020-11593 (cipace)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11593</link>
-    <description>An issue was discovered in CIPPlanner CIPAce 9.1 Build 2019092801. An unauthenticated attacker can make an HTTP POST request with injected HTML data that is later leveraged to send emails from a customer trusted email address.</description>
-    <dc:date>2020-04-06T22:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11594">
-    <title>CVE-2020-11594 (cipace)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11594</link>
-    <description>An issue was discovered in CIPPlanner CIPAce 9.1 Build 2019092801. An unauthenticated attacker can make an API request that causes a stack error to be shown providing the full file path.</description>
-    <dc:date>2020-04-06T22:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11595">
-    <title>CVE-2020-11595 (cipace)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11595</link>
-    <description>An issue was discovered in CIPPlanner CIPAce 9.1 Build 2019092801. An unauthenticated attacker can make an API request and obtain the upload folder path that includes the hostname in a UNC path.</description>
-    <dc:date>2020-04-06T22:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11596">
-    <title>CVE-2020-11596 (cipace)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11596</link>
-    <description>A Directory Traversal issue was discovered in CIPPlanner CIPAce 9.1 Build 2019092801. An unauthenticated attacker can make HTTP GET requests to a certain URL and obtain information about what files and directories reside on the server.</description>
-    <dc:date>2020-04-06T22:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11597">
-    <title>CVE-2020-11597 (cipace)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11597</link>
-    <description>An issue was discovered in CIPPlanner CIPAce 9.1 Build 2019092801. An unauthenticated attacker can make an HTTP POST request and inject SQL statements in the user context of the db owner.</description>
-    <dc:date>2020-04-06T22:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11598">
-    <title>CVE-2020-11598 (cipace)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11598</link>
-    <description>An issue was discovered in CIPPlanner CIPAce 9.1 Build 2019092801. Upload.ashx allows remote attackers to execute arbitrary code by uploading and executing an ASHX file.</description>
-    <dc:date>2020-04-06T22:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11599">
-    <title>CVE-2020-11599 (cipace)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-11599</link>
-    <description>An issue was discovered in CIPPlanner CIPAce 6.80 Build 2016031401. GetDistributedPOP3 allows attackers to obtain the username and password of the SMTP user.</description>
-    <dc:date>2020-04-06T22:15:13Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11600">
     <title>CVE-2020-11600 (android)</title>
@@ -1910,6 +1715,60 @@
     <description>In JetBrains PyCharm 2019.2.5 and 2019.3 on Windows, Apple Notarization Service credentials were included. This is fixed in 2019.2.6 and 2019.3.3.</description>
     <dc:date>2020-04-10T21:15:11Z</dc:date>
   </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11701">
+    <title>CVE-2020-11701</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11701</link>
+    <description>An issue was discovered in ProVide (formerly zFTPServer) through 13.1. CSRF exists in the User Web Interface, as demonstrated by granting filesystem access to the public for uploading and deleting files and directories.</description>
+    <dc:date>2020-04-12T03:15:10Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11702">
+    <title>CVE-2020-11702</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11702</link>
+    <description>An issue was discovered in ProVide (formerly zFTPServer) through 13.1. The User Web Interface has Multiple Stored and Reflected XSS issues. Collaborate is Reflected via the filename parameter. Collaborate is Stored via the displayname parameter. Deletemultiple is Reflected via the files parameter. Share is Reflected via the target parameter. Share is Stored via the displayname parameter. Waitedit is Reflected via the Host header.</description>
+    <dc:date>2020-04-12T03:15:10Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11703">
+    <title>CVE-2020-11703</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11703</link>
+    <description>An issue was discovered in ProVide (formerly zFTPServer) through 13.1. /ajax/GetInheritedProperties allows HTTP Response Splitting via the language parameter.</description>
+    <dc:date>2020-04-12T03:15:10Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11704">
+    <title>CVE-2020-11704</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11704</link>
+    <description>An issue was discovered in ProVide (formerly zFTPServer) through 13.1. The Admin Web Interface has Multiple Stored and Reflected XSS. GetInheritedProperties is Reflected via the groups parameter. GetUserInfo is Reflected via POST data. SetUserInfo is Stored via the general parameter.</description>
+    <dc:date>2020-04-12T03:15:10Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11705">
+    <title>CVE-2020-11705</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11705</link>
+    <description>An issue was discovered in ProVide (formerly zFTPServer) through 13.1. /ajax/ImportCertificate allows an attacker to load an arbitrary certificate in .pfx format or overwrite arbitrary files via the fileName parameter.</description>
+    <dc:date>2020-04-12T03:15:11Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11706">
+    <title>CVE-2020-11706</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11706</link>
+    <description>An issue was discovered in ProVide (formerly zFTPServer) through 13.1. The Admin Interface allows CSRF for actions such as: Change any username and password, admin ones included; Create/Delete users; Enable/Disable Services; Set a rogue update proxy; and Shutdown the server.</description>
+    <dc:date>2020-04-12T03:15:11Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11707">
+    <title>CVE-2020-11707</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11707</link>
+    <description>An issue was discovered in ProVide (formerly zFTPServer) through 13.1. It doesn't enforce permission over Windows Symlinks or Junctions. As a result, a low-privileged user (non-admin) can craft a Junction Link in a directory he has full control of, breaking out of the sandbox.</description>
+    <dc:date>2020-04-12T03:15:11Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11708">
+    <title>CVE-2020-11708</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11708</link>
+    <description>An issue was discovered in ProVide (formerly zFTPServer) through 13.1. Privilege escalation can occur via the /ajax/SetUserInfo messages parameter because of the EXECUTE() feature, which is for executing programs when certain events are triggered.</description>
+    <dc:date>2020-04-12T03:15:11Z</dc:date>
+  </item>
+  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-11709">
+    <title>CVE-2020-11709</title>
+    <link>https://cve.moabi.com/cve/?id=CVE-2020-11709</link>
+    <description>cpp-httplib through 0.5.8 does not filter \r\n in parameters passed into the set_redirect and set_header functions, which creates possibilities for CRLF injection and HTTP response splitting in some specific contexts.</description>
+    <dc:date>2020-04-12T14:15:10Z</dc:date>
+  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-1613">
     <title>CVE-2020-1613</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-1613</link>
@@ -2047,12 +1906,6 @@
     <link>https://cve.moabi.com/cve/?id=CVE-2020-1639</link>
     <description>When an attacker sends a specific crafted Ethernet Operation, Administration, and Maintenance (Ethernet OAM) packet to a target device, it may improperly handle the incoming malformed data and fail to sanitize this incoming data resulting in an overflow condition. This overflow condition in Juniper Networks Junos OS allows an attacker to cause a Denial of Service (DoS) condition by coring the CFM daemon. Continued receipt of these packets may cause an extended Denial of Service condition. This issue affects: Juniper Networks Junos OS 12.3 versions prior to 12.3R12-S15; 12.3X48 versions prior to 12.3X48-D95 on SRX Series; 14.1X50 versions prior to 14.1X50-D145; 14.1X53 versions prior to 14.1X53-D47; 15.1 versions prior to 15.1R2; 15.1X49 versions prior to 15.1X49-D170 on SRX Series; 15.1X53 versions prior to 15.1X53-D67.</description>
     <dc:date>2020-04-08T20:15:14Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-1728">
-    <title>CVE-2020-1728 (keycloak)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-1728</link>
-    <description>A vulnerability was found in all versions of Keycloak where, the pages on the Admin Console area of the application are completely missing general HTTP security headers in HTTP-responses. This does not directly lead to a security issue, yet it might aid attackers in their efforts to exploit other problems. The flaws unnecessarily make the servers more prone to Clickjacking, channel downgrade attacks and other similar client-based attack vectors.</description>
-    <dc:date>2020-04-06T14:15:12Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-1801">
     <title>CVE-2020-1801</title>
@@ -2234,12 +2087,6 @@
     <description>auth0.js (NPM package auth0-js) greater than version 8.0.0 and before version 9.12.3 has a vulnerability. In the case of an (authentication) error, the error object returned by the library contains the original request of the user, which may include the plaintext password the user entered. If the error object is exposed or logged without modification, the application risks password exposure. This is fixed in version 9.12.3</description>
     <dc:date>2020-04-09T16:15:12Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5300">
-    <title>CVE-2020-5300 (hydra)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-5300</link>
-    <description>In Hydra (an OAuth2 Server and OpenID Certified&amp;acirc;&amp;bdquo;&amp;cent; OpenID Connect Provider written in Go), before version 1.4.0+oryOS.17, when using client authentication method 'private_key_jwt' [1], OpenId specification says the following about assertion `jti`: &amp;quot;A unique identifier for the token, which can be used to prevent reuse of the token. These tokens MUST only be used once, unless conditions for reuse were negotiated between the parties&amp;quot;. Hydra does not check the uniqueness of this `jti` value. Exploiting this vulnerability is somewhat difficult because: - TLS protects against MITM which makes it difficult to intercept valid tokens for replay attacks - The expiry time of the JWT gives only a short window of opportunity where it could be replayed This has been patched in version v1.4.0+oryOS.17</description>
-    <dc:date>2020-04-06T17:15:13Z</dc:date>
-  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5302">
     <title>CVE-2020-5302 (mh-wikibot)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-5302</link>
@@ -2293,12 +2140,6 @@
     <link>https://cve.moabi.com/cve/?id=CVE-2020-5736</link>
     <description>Amcrest cameras and NVR are vulnerable to a null pointer dereference over port 37777. An authenticated remote attacker can abuse this issue to crash the device.</description>
     <dc:date>2020-04-08T13:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-5832">
-    <title>CVE-2020-5832 (data_center_security)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-5832</link>
-    <description>Symantec Data Center Security Manager Component, prior to 6.8.2 (aka 6.8 MP2), may be susceptible to a privilege escalation vulnerability, which is a type of issue whereby an attacker may attempt to compromise the software application to gain elevated access to resources that are normally protected from an application or user.</description>
-    <dc:date>2020-04-06T20:15:12Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-6171">
     <title>CVE-2020-6171 (clink_office)</title>
@@ -2354,77 +2195,11 @@
     <description>sds through 3.2.0 is vulnerable to Prototype Pollution.The library could be tricked into adding or modifying properties of the 'Object.prototype' by abusing the 'set' function located in 'js/set.js'.</description>
     <dc:date>2020-04-07T14:15:14Z</dc:date>
   </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7622">
-    <title>CVE-2020-7622 (jooby)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7622</link>
-    <description>All versions of Jooby before 2.2.1 are vulnerable to HTTP Response Splitting. The DefaultHttpHeaders is set to false which means it does not validates that the header isn't being abused for HTTP Response Splitting.</description>
-    <dc:date>2020-04-06T15:15:12Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7631">
-    <title>CVE-2020-7631 (diskusage-ng)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7631</link>
-    <description>diskusage-ng through 0.2.4 is vulnerable to Command Injection.It allows execution of arbitrary commands via the path argument.</description>
-    <dc:date>2020-04-06T13:15:12Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7632">
-    <title>CVE-2020-7632 (node-mpv)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7632</link>
-    <description>node-mpv through 1.4.3 is vulnerable to Command Injection. It allows execution of arbitrary commands via the options argument.</description>
-    <dc:date>2020-04-06T13:15:12Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7633">
-    <title>CVE-2020-7633 (apiconnect-cli-plugins)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7633</link>
-    <description>apiconnect-cli-plugins through 6.0.1 is vulnerable to Command Injection.It allows execution of arbitrary commands via the pluginUri argument.</description>
-    <dc:date>2020-04-06T13:15:12Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7634">
-    <title>CVE-2020-7634 (heroku-addonpool)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7634</link>
-    <description>heroku-addonpool through 0.1.15 is vulnerable to Command Injection.</description>
-    <dc:date>2020-04-06T13:15:12Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7635">
-    <title>CVE-2020-7635 (compass-compile)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7635</link>
-    <description>compass-compile through 0.0.1 is vulnerable to Command Injection.It allows execution of arbitrary commands via tha options argument.</description>
-    <dc:date>2020-04-06T13:15:12Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7636">
-    <title>CVE-2020-7636 (adb-driver)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7636</link>
-    <description>adb-driver through 0.1.8 is vulnerable to Command Injection.It allows execution of arbitrary commands via the command function.</description>
-    <dc:date>2020-04-06T13:15:12Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7637">
-    <title>CVE-2020-7637 (class-transformer)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7637</link>
-    <description>class-transformer through 0.2.3 is vulnerable to Prototype Pollution. The 'classToPlainFromExist' function could be tricked into adding or modifying properties of 'Object.prototype' using a '__proto__' payload.</description>
-    <dc:date>2020-04-06T13:15:12Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7638">
-    <title>CVE-2020-7638 (confinit)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7638</link>
-    <description>confinit through 0.3.0 is vulnerable to Prototype Pollution.The 'setDeepProperty' function could be tricked into adding or modifying properties of 'Object.prototype' using a '__proto__' payload.</description>
-    <dc:date>2020-04-06T13:15:12Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7639">
-    <title>CVE-2020-7639 (dot)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-7639</link>
-    <description>eivindfjeldstad-dot below 1.0.3 is vulnerable to Prototype Pollution.The function 'set' could be tricked into adding or modifying properties of 'Object.prototype' using a '__proto__' payload.</description>
-    <dc:date>2020-04-06T13:15:12Z</dc:date>
-  </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-7922">
     <title>CVE-2020-7922 (mongodb_enterprise_kubernetes_operator)</title>
     <link>https://cve.moabi.com/cve/?id=CVE-2020-7922</link>
     <description>X.509 certificates generated by the MongoDB Enterprise Kubernetes Operator may allow an attacker with access to the Kubernetes cluster improper access to MongoDB instances. Customers who do not use X.509 authentication, and those who do not use the Operator to generate their X.509 certificates are unaffected.</description>
     <dc:date>2020-04-09T18:15:11Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-8004">
-    <title>CVE-2020-8004 (stm32f1_firmware)</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-8004</link>
-    <description>STMicroelectronics STM32F1 devices have Incorrect Access Control.</description>
-    <dc:date>2020-04-06T13:15:13Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-8096">
     <title>CVE-2020-8096 (antimalware_software_development_kit)</title>
@@ -2479,12 +2254,6 @@
     <link>https://cve.moabi.com/cve/?id=CVE-2020-9286</link>
     <description>An improper authorization vulnerability in FortiADC may allow a remote authenticated user with low privileges to perform certain actions such as rebooting the system.</description>
     <dc:date>2020-04-07T19:15:13Z</dc:date>
-  </item>
-  <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-9473">
-    <title>CVE-2020-9473</title>
-    <link>https://cve.moabi.com/cve/?id=CVE-2020-9473</link>
-    <description>** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Notes: none.</description>
-    <dc:date>2020-04-06T15:15:12Z</dc:date>
   </item>
   <item rdf:about="https://cve.moabi.com/cve/?id=CVE-2020-9499">
     <title>CVE-2020-9499 (ipc-hx2xxx_firmware, ipc-hx5842h_firmware, ipc-hx7842h_firmware, ipc-hxxx5x4x_firmware, n42b1p_firmware, n42b2p_firmware, n42b3p_firmware, n52a4p_firmware, n52b2p_firmware, n52b3p_firmware, n52b5p_firmware, n54a4p_firmware, n54b2p_firmware, ptz1a_firmware, sd1a_firmware, sd50_firmware, sd52c_firmware, sd5a_firmware, sd6al_firmware)</title>
