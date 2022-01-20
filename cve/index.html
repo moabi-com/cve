@@ -424,7 +424,7 @@
                 $('.cve_id').html(data.public_id);
                 $('.cve_cwe').html(data.cwe);
                 $('.cve_summary').html(data.summary);
-                $('.cve_refs').empty();data.refs.forEach(function(item){$('.cve_refs').append(item+'<br>');})
+                $('.cve_refs').empty();data.references.forEach(function(item){$('.cve_refs').append(item+'<br>');})
             });
         });
         </script>
