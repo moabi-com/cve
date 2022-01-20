@@ -422,7 +422,6 @@
                 headers: {'Accept': 'application/json'},
             }).done((data) => {
                 $('.cve_id').html(data.public_id);
-                $('.cve_cvss').html(data.cvss_score);
                 $('.cve_cwe').html(data.cwe);
                 $('.cve_summary').html(data.summary);
                 $('.cve_refs').empty();data.refs.forEach(function(item){$('.cve_refs').append(item+'<br>');})
